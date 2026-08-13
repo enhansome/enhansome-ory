@@ -1,0 +1,626 @@
+{
+  "items": [
+    {
+      "description": "Overview of the main projects in the Ory ecosystem.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ory Hydra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T09:30:11Z",
+            "owner": "ory",
+            "repo": "hydra",
+            "stars": 17474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T09:30:37Z",
+            "owner": "ory",
+            "repo": "kratos",
+            "stars": 13828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Keto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T03:44:50Z",
+            "owner": "ory",
+            "repo": "keto",
+            "stars": 5388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Dockertest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-17T14:03:10Z",
+            "owner": "ory",
+            "repo": "dockertest",
+            "stars": 4522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Oathkeeper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T15:23:59Z",
+            "owner": "ory",
+            "repo": "oathkeeper",
+            "stars": 3593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Fosite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-20T01:13:40Z",
+            "owner": "ory",
+            "repo": "fosite",
+            "stars": 2605
+          }
+        }
+      ],
+      "title": "Ecosystem"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blog posts"
+    },
+    {
+      "description": "Code examples that show how to integrate Ory with a framework, software stack, or how to solve a specific use case.",
+      "items": [],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Microservices app using Ory, NestJS, Kubernetes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-26T14:17:12Z",
+            "owner": "getlarge",
+            "repo": "ticketing",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos, Keto, Oathkeeper Kubernetes example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-04-18T16:32:25Z",
+            "owner": "pngouin",
+            "repo": "k8s-ory-example",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js based starter for Ory Kratos and Ory Hydra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-11-25T19:30:16Z",
+            "owner": "MarkusThielker",
+            "repo": "next-ory",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selfhosted admin frontend in ASP.net",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2025-02-25T12:02:36Z",
+            "owner": "josxha",
+            "repo": "OryUI",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos & Oathkeeper with Kong, docker-compose",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-24T01:19:05Z",
+            "owner": "Pterygoidien",
+            "repo": "Kong-Ory-Microservices",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APISIX as gateway with Ory, linkerd, and kustomize",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2024-01-02T16:58:29Z",
+            "owner": "iverly",
+            "repo": "kube-apisix-linkerd-ory-kustomize",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Ory Ecosystem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ory Kratos Admin Interface in React example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:47:53Z",
+            "owner": "dfoxg",
+            "repo": "kratos-admin-ui",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos Admin Interface with analytics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-10T02:10:58Z",
+            "owner": "dhia-gharsallaoui",
+            "repo": "kratos-admin-ui",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos Sveltekit with MeltUI and TailwindCSS example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-01-09T13:13:24Z",
+            "owner": "karlis-vagalis",
+            "repo": "kratos-selfservice",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos Svelte Node example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-09-25T15:04:20Z",
+            "owner": "emrahcom",
+            "repo": "kratos-selfservice-svelte-node",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos Nuxt example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-10-10T06:14:03Z",
+            "owner": "khusseini",
+            "repo": "nuxt-kratos-selfservice",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos for Plug apps example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2023-06-13T18:19:36Z",
+            "owner": "ScoreVision",
+            "repo": "kratos_plug",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos SvelteKit example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-04-29T18:15:59Z",
+            "owner": "bessey",
+            "repo": "ory-kratos-sveltekit-demo",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos SPA Self-service UI written in the Dioxus rust framework (WASM)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-24T17:17:26Z",
+            "owner": "justins-engineering",
+            "repo": "kratos-selfservice-wasm",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Ory Kratos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ory Hydra Java identity provider example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-02T20:51:30Z",
+            "owner": "ardetrick",
+            "repo": "ory-hydra-refrence-java",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Hydra client integrations with OAuth2.0 & OIDC example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-02T09:40:51Z",
+            "owner": "shauryadhadwal",
+            "repo": "oauth2-oidc-client-integrations",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Hydra PKCE & Spring Boot 2 example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-26T18:59:16Z",
+            "owner": "Chistousov",
+            "repo": "ORY-Hydra-OAuth2.0-Example",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Hydra Golang identity provider example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-01-14T20:51:34Z",
+            "owner": "M3ikShizuka",
+            "repo": "service-account",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Hydra Web3 Authentication incl. Metamask, Coinbase, Walletconnect example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-25T03:33:07Z",
+            "owner": "MetaWarrior-Army",
+            "repo": "mwa-auth",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Ory Hydra"
+    },
+    {
+      "description": "Community projects, configuration tools, or development helpers extending Ory services.",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Libraries to integrate NestJS with Ory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-02T12:41:30Z",
+            "owner": "getlarge",
+            "repo": "nestjs-ory-integration",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Plugin for HashiCorp Vault",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-17T13:03:11Z",
+            "owner": "comnoco",
+            "repo": "vault-plugin-auth-ory",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Ory Ecosystem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ory Kratos read-only traits",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-11-29T12:44:11Z",
+            "owner": "lus",
+            "repo": "kratos-readonly-traits",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos MCP server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-07T12:33:24Z",
+            "owner": "feedback-loop-ai",
+            "repo": "mcp-ory-kratos",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos Symfony Authenticator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-11-23T21:05:39Z",
+            "owner": "stethome",
+            "repo": "ory-auth-bundle",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos Loopback4 integration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-25T23:56:59Z",
+            "owner": "giuseppegrieco",
+            "repo": "loopback4-kratos",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos Client Rust WASM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-24T14:55:49Z",
+            "owner": "justins-engineering",
+            "repo": "kratos-client-rust",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Ory Kratos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ory Hydra Terraform Provider",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-11T23:21:03Z",
+            "owner": "svrakitin",
+            "repo": "terraform-provider-hydra",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Hydra OAuth2 Token Exchange RFC 8693",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-12T21:53:23Z",
+            "owner": "ApelegHQ",
+            "repo": "ts-hydra-rfc8693",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Hydra Golang HTTP middleware",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-08T03:27:58Z",
+            "owner": "ngyewch",
+            "repo": "hydra-login-consent",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Hydra Testcontainer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T00:59:43Z",
+            "owner": "ardetrick",
+            "repo": "testcontainers-ory-hydra",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Hydra ExpressJS OAuth2 Middleware for MCP Servers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T21:54:40Z",
+            "owner": "jeffdyke",
+            "repo": "hydra-headless-ts",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Ory Hydra"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MongoDB storage for Ory Fosite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-24T23:36:32Z",
+            "owner": "matthewhartstonge",
+            "repo": "storage",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argon2 Hasher for Ory Fosite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T21:59:38Z",
+            "owner": "matthewhartstonge",
+            "repo": "hasher",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Ory Fosite"
+    },
+    {
+      "description": "You can find old, archived, outdated, or incomplete projects in ARCHIVE.md",
+      "items": [],
+      "title": "Archive"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:01:28.483Z",
+    "original_repository": "ory/awesome-ory",
+    "original_repository_sha": "0838e1c6b963cc5b62d05d70db128e6506e6a9c1",
+    "enhanced_repository": "enhansome/enhansome-ory",
+    "enhanced_repository_description": null,
+    "title": "Awesome Ory with stars"
+  }
+}
