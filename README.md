@@ -49,10 +49,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,474 | 🐛 94 | 🌐 Go | 📅 2026-07-29
+* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,473 | 🐛 94 | 🌐 Go | 📅 2026-07-29
 * [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,828 | 🐛 222 | 🌐 Go | 📅 2026-07-29
-* [Ory Keto](https://github.com/ory/keto) ⭐ 5,388 | 🐛 69 | 🌐 Go | 📅 2026-08-03
-* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,522 | 🐛 13 | 🌐 Go | 📅 2026-07-17
+* [Ory Keto](https://github.com/ory/keto) ⭐ 5,387 | 🐛 69 | 🌐 Go | 📅 2026-08-03
+* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,521 | 🐛 13 | 🌐 Go | 📅 2026-07-17
 * [Ory Oathkeeper](https://github.com/ory/oathkeeper) ⭐ 3,593 | 🐛 106 | 🌐 Go | 📅 2026-07-27
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,605 | 🐛 60 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://console.ory.sh/)
