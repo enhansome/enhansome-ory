@@ -14,7 +14,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17473
+            "stars": 17475
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-29T09:30:37Z",
             "owner": "ory",
             "repo": "kratos",
-            "stars": 13828
+            "stars": 13827
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-03T03:44:50Z",
+            "last_commit": "2026-08-14T03:43:46Z",
             "owner": "ory",
             "repo": "keto",
             "stars": 5387
@@ -84,7 +84,7 @@
             "last_commit": "2025-11-20T01:13:40Z",
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2605
+            "stars": 2606
           }
         }
       ],
@@ -204,7 +204,7 @@
             "last_commit": "2026-08-12T03:47:53Z",
             "owner": "dfoxg",
             "repo": "kratos-admin-ui",
-            "stars": 194
+            "stars": 195
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2024-12-11T23:21:03Z",
             "owner": "svrakitin",
             "repo": "terraform-provider-hydra",
-            "stars": 24
+            "stars": 23
           }
         },
         {
@@ -527,7 +527,7 @@
             "last_commit": "2024-09-12T21:53:23Z",
             "owner": "ApelegHQ",
             "repo": "ts-hydra-rfc8693",
-            "stars": 9
+            "stars": 8
           }
         },
         {
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:33:45.746Z",
+    "last_updated": "2026-08-14T10:30:55.489Z",
     "original_repository": "ory/awesome-ory",
     "original_repository_sha": "0838e1c6b963cc5b62d05d70db128e6506e6a9c1",
     "enhanced_repository": "enhansome/enhansome-ory",
