@@ -14,7 +14,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17475
+            "stars": 17477
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-29T09:30:37Z",
             "owner": "ory",
             "repo": "kratos",
-            "stars": 13827
+            "stars": 13828
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-17T14:03:10Z",
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4521
+            "stars": 4522
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2025-11-20T01:13:40Z",
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2606
+            "stars": 2608
           }
         }
       ],
@@ -201,7 +201,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T03:47:53Z",
+            "last_commit": "2026-08-14T23:56:31Z",
             "owner": "dfoxg",
             "repo": "kratos-admin-ui",
             "stars": 195
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:30:55.489Z",
+    "last_updated": "2026-08-15T09:47:00.402Z",
     "original_repository": "ory/awesome-ory",
     "original_repository_sha": "0838e1c6b963cc5b62d05d70db128e6506e6a9c1",
     "enhanced_repository": "enhansome/enhansome-ory",
