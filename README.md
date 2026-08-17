@@ -49,12 +49,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,478 | 🐛 93 | 🌐 Go | 📅 2026-07-29
+* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,480 | 🐛 93 | 🌐 Go | 📅 2026-07-29
 * [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,828 | 🐛 222 | 🌐 Go | 📅 2026-07-29
-* [Ory Keto](https://github.com/ory/keto) ⭐ 5,388 | 🐛 71 | 🌐 Go | 📅 2026-08-14
+* [Ory Keto](https://github.com/ory/keto) ⭐ 5,388 | 🐛 71 | 🌐 Go | 📅 2026-08-17
 * [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,522 | 🐛 13 | 🌐 Go | 📅 2026-07-17
 * [Ory Oathkeeper](https://github.com/ory/oathkeeper) ⭐ 3,593 | 🐛 106 | 🌐 Go | 📅 2026-07-27
-* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,608 | 🐛 60 | 🌐 Go | 📅 2025-11-20
+* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,609 | 🐛 60 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://console.ory.sh/)
 * [Other Ory projects can be found here](https://github.com/ory)
 
@@ -198,7 +198,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 
 ### Ory Oathkeeper
 
-* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 11 | 🐛 6 | 🌐 Go | 📅 2026-08-13
+* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 11 | 🐛 6 | 🌐 Go | 📅 2026-08-17
 
 ### Ory Fosite
 
@@ -231,4 +231,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
