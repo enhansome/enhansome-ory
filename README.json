@@ -14,7 +14,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17480
+            "stars": 17482
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-29T09:30:37Z",
             "owner": "ory",
             "repo": "kratos",
-            "stars": 13828
+            "stars": 13830
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T03:45:05Z",
+            "last_commit": "2026-08-18T03:43:56Z",
             "owner": "ory",
             "repo": "keto",
             "stars": 5388
@@ -84,7 +84,7 @@
             "last_commit": "2025-11-20T01:13:40Z",
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2609
+            "stars": 2610
           }
         }
       ],
@@ -600,7 +600,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-27T21:59:38Z",
+            "last_commit": "2026-08-18T08:05:55Z",
             "owner": "matthewhartstonge",
             "repo": "hasher",
             "stars": 2
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:03:40.399Z",
+    "last_updated": "2026-08-18T09:55:38.779Z",
     "original_repository": "ory/awesome-ory",
     "original_repository_sha": "0838e1c6b963cc5b62d05d70db128e6506e6a9c1",
     "enhanced_repository": "enhansome/enhansome-ory",
