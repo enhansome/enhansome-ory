@@ -49,9 +49,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,482 | 🐛 93 | 🌐 Go | 📅 2026-07-29
-* [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,830 | 🐛 222 | 🌐 Go | 📅 2026-07-29
-* [Ory Keto](https://github.com/ory/keto) ⭐ 5,388 | 🐛 72 | 🌐 Go | 📅 2026-08-18
+* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,484 | 🐛 93 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,833 | 🐛 222 | 🌐 Go | 📅 2026-07-29
+* [Ory Keto](https://github.com/ory/keto) ⭐ 5,387 | 🐛 72 | 🌐 Go | 📅 2026-08-18
 * [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,522 | 🐛 13 | 🌐 Go | 📅 2026-07-17
 * [Ory Oathkeeper](https://github.com/ory/oathkeeper) ⭐ 3,593 | 🐛 106 | 🌐 Go | 📅 2026-07-27
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,610 | 🐛 60 | 🌐 Go | 📅 2025-11-20
@@ -100,7 +100,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 * [How to write an application that integrates Kratos in Go](https://stories.abletech.nz/integrating-third-party-provider-kratos-f5514b53af66)
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,830 | 🐛 222 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,833 | 🐛 222 | 🌐 Go | 📅 2026-07-29
 
 ### Ory Hydra
 
@@ -150,7 +150,7 @@ Code examples that show how to integrate Ory with a framework, software stack, o
 
 ### Ory Kratos
 
-* [Ory Kratos Admin Interface in React example](https://github.com/dfoxg/kratos-admin-ui) ⭐ 195 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-14
+* [Ory Kratos Admin Interface in React example](https://github.com/dfoxg/kratos-admin-ui) ⭐ 195 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-18
 * [Ory Kratos Admin Interface with analytics](https://github.com/dhia-gharsallaoui/kratos-admin-ui) ⭐ 66 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-10
 * [Ory Kratos Sveltekit with MeltUI and TailwindCSS example](https://github.com/karlis-vagalis/kratos-selfservice) ⭐ 33 | 🐛 1 | 🌐 Svelte | 📅 2025-01-09
 * [Ory Kratos Svelte Node example](https://github.com/emrahcom/kratos-selfservice-svelte-node) ⭐ 28 | 🐛 1 | 🌐 Svelte | 📅 2023-09-25
@@ -198,11 +198,11 @@ Community projects, configuration tools, or development helpers extending Ory se
 
 ### Ory Oathkeeper
 
-* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 11 | 🐛 6 | 🌐 Go | 📅 2026-08-17
+* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 11 | 🐛 6 | 🌐 Go | 📅 2026-08-18
 
 ### Ory Fosite
 
-* [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 1 | 🌐 Go | 📅 2026-07-24
+* [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 2 | 🌐 Go | 📅 2026-08-18
 * [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2026-08-18
 
 ## Services
@@ -231,4 +231,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
