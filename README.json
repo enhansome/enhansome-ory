@@ -30,7 +30,7 @@
             "last_commit": "2026-07-29T09:30:37Z",
             "owner": "ory",
             "repo": "kratos",
-            "stars": 13833
+            "stars": 13834
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-18T03:43:56Z",
             "owner": "ory",
             "repo": "keto",
-            "stars": 5387
+            "stars": 5388
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-11-20T01:13:40Z",
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2610
+            "stars": 2611
           }
         }
       ],
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 328242138,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T21:12:28Z",
+                "last_commit": "2026-08-20T04:32:21Z",
                 "owner": "dfoxg",
                 "repo": "kratos-admin-ui",
                 "stars": 195
@@ -601,7 +601,7 @@
                 "archived": false,
                 "id": 1072378136,
                 "language": "TypeScript",
-                "last_commit": "2026-06-17T21:54:40Z",
+                "last_commit": "2026-08-19T13:13:18Z",
                 "owner": "jeffdyke",
                 "repo": "hydra-headless-ts",
                 "stars": 0
@@ -638,7 +638,7 @@
                 "archived": false,
                 "id": 91993042,
                 "language": "Go",
-                "last_commit": "2026-08-18T08:05:55Z",
+                "last_commit": "2026-08-20T08:04:49Z",
                 "owner": "matthewhartstonge",
                 "repo": "hasher",
                 "stars": 2
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:45:11.782Z",
+    "last_updated": "2026-08-20T09:57:28.123Z",
     "original_repository": "ory/awesome-ory",
     "original_repository_id": 480431554,
     "original_repository_sha": "0838e1c6b963cc5b62d05d70db128e6506e6a9c1",
