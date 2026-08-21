@@ -49,11 +49,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,484 | 🐛 93 | 🌐 Go | 📅 2026-07-29
-* [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,834 | 🐛 222 | 🌐 Go | 📅 2026-07-29
-* [Ory Keto](https://github.com/ory/keto) ⭐ 5,388 | 🐛 73 | 🌐 Go | 📅 2026-08-18
+* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,490 | 🐛 94 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,835 | 🐛 222 | 🌐 Go | 📅 2026-07-29
+* [Ory Keto](https://github.com/ory/keto) ⭐ 5,388 | 🐛 73 | 🌐 Go | 📅 2026-08-21
 * [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,522 | 🐛 13 | 🌐 Go | 📅 2026-07-17
-* [Ory Oathkeeper](https://github.com/ory/oathkeeper) ⭐ 3,593 | 🐛 107 | 🌐 Go | 📅 2026-07-27
+* [Ory Oathkeeper](https://github.com/ory/oathkeeper) ⭐ 3,594 | 🐛 108 | 🌐 Go | 📅 2026-07-27
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,611 | 🐛 60 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://console.ory.sh/)
 * [Other Ory projects can be found here](https://github.com/ory)
@@ -100,7 +100,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 * [How to write an application that integrates Kratos in Go](https://stories.abletech.nz/integrating-third-party-provider-kratos-f5514b53af66)
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,834 | 🐛 222 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,835 | 🐛 222 | 🌐 Go | 📅 2026-07-29
 
 ### Ory Hydra
 
@@ -120,7 +120,7 @@ Developer resources and forums for discussing Ory and meeting other users
 ### Ory Oathkeepeer
 
 * [API Access Control with Ambassador and Ory Oathkeeper](https://blog.getambassador.io/part-2-api-access-control-and-authentication-with-kubernetes-ambassador-and-ory-oathkeeper-q-a-127fa57f6332?utm_content=76739953\&utm_medium=social\&utm_source=twitter)
-* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,593 | 🐛 107 | 🌐 Go | 📅 2026-07-27
+* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,594 | 🐛 108 | 🌐 Go | 📅 2026-07-27
 
 ### Ory Dockertest
 
@@ -150,8 +150,8 @@ Code examples that show how to integrate Ory with a framework, software stack, o
 
 ### Ory Kratos
 
-* [Ory Kratos Admin Interface in React example](https://github.com/dfoxg/kratos-admin-ui) ⭐ 195 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-20
-* [Ory Kratos Admin Interface with analytics](https://github.com/dhia-gharsallaoui/kratos-admin-ui) ⭐ 66 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-10
+* [Ory Kratos Admin Interface in React example](https://github.com/dfoxg/kratos-admin-ui) ⭐ 195 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-21
+* [Ory Kratos Admin Interface with analytics](https://github.com/dhia-gharsallaoui/kratos-admin-ui) ⭐ 67 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-20
 * [Ory Kratos Sveltekit with MeltUI and TailwindCSS example](https://github.com/karlis-vagalis/kratos-selfservice) ⭐ 33 | 🐛 1 | 🌐 Svelte | 📅 2025-01-09
 * [Ory Kratos Svelte Node example](https://github.com/emrahcom/kratos-selfservice-svelte-node) ⭐ 28 | 🐛 1 | 🌐 Svelte | 📅 2023-09-25
 * [Ory Kratos Nuxt example](https://github.com/khusseini/nuxt-kratos-selfservice) ⭐ 7 | 🐛 0 | 🌐 Vue | 📅 2024-10-10
@@ -198,12 +198,12 @@ Community projects, configuration tools, or development helpers extending Ory se
 
 ### Ory Oathkeeper
 
-* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 11 | 🐛 6 | 🌐 Go | 📅 2026-08-19
+* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 11 | 🐛 6 | 🌐 Go | 📅 2026-08-21
 
 ### Ory Fosite
 
 * [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 2 | 🌐 Go | 📅 2026-08-18
-* [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 2 | 🌐 Go | 📅 2026-08-20
+* [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 2 | 🌐 Go | 📅 2026-08-21
 
 ## Services
 
@@ -231,4 +231,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

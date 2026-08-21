@@ -15,7 +15,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17484
+            "stars": 17490
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-29T09:30:37Z",
             "owner": "ory",
             "repo": "kratos",
-            "stars": 13834
+            "stars": 13835
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 125619154,
             "language": "Go",
-            "last_commit": "2026-08-18T03:43:56Z",
+            "last_commit": "2026-08-21T03:44:32Z",
             "owner": "ory",
             "repo": "keto",
             "stars": 5388
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-27T15:23:59Z",
             "owner": "ory",
             "repo": "oathkeeper",
-            "stars": 3593
+            "stars": 3594
           }
         },
         {
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 328242138,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T04:32:21Z",
+                "last_commit": "2026-08-21T02:08:20Z",
                 "owner": "dfoxg",
                 "repo": "kratos-admin-ui",
                 "stars": 195
@@ -222,10 +222,10 @@
                 "archived": false,
                 "id": 944309590,
                 "language": "TypeScript",
-                "last_commit": "2026-03-10T02:10:58Z",
+                "last_commit": "2026-08-20T18:51:07Z",
                 "owner": "dhia-gharsallaoui",
                 "repo": "kratos-admin-ui",
-                "stars": 66
+                "stars": 67
               }
             },
             {
@@ -638,7 +638,7 @@
                 "archived": false,
                 "id": 91993042,
                 "language": "Go",
-                "last_commit": "2026-08-20T08:04:49Z",
+                "last_commit": "2026-08-21T08:04:45Z",
                 "owner": "matthewhartstonge",
                 "repo": "hasher",
                 "stars": 2
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:57:28.123Z",
+    "last_updated": "2026-08-21T09:58:31.432Z",
     "original_repository": "ory/awesome-ory",
     "original_repository_id": 480431554,
     "original_repository_sha": "0838e1c6b963cc5b62d05d70db128e6506e6a9c1",
