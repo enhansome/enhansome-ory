@@ -7,7 +7,7 @@ An awesome list of the [Ory ecosystem](https://github.com/ory/). Ory provides sc
 [![Docs](https://img.shields.io/badge/docs-ory.sh-%233B4B6C "Ory Documentation")](https://ory.sh/docs)
 [![Docs](https://img.shields.io/badge/chat-slack.ory.sh-%234B1B6C "Ory Community Slack")](https://slack.ory.sh/)
 
-If you have any questions or suggestions [open a discussion](https://github.com/ory/examples/discussions) ⭐ 199 | 🐛 2 | 🌐 Dart | 📅 2026-02-05, or join the [Ory Chat](https://slack.ory.sh/)!
+If you have any questions or suggestions [open a discussion](https://github.com/ory/examples/discussions) ⭐ 201 | 🐛 2 | 🌐 Dart | 📅 2026-02-05, or join the [Ory Chat](https://slack.ory.sh/)!
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
@@ -49,8 +49,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,489 | 🐛 94 | 🌐 Go | 📅 2026-07-29
-* [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,838 | 🐛 224 | 🌐 Go | 📅 2026-07-29
+* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,491 | 🐛 94 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,842 | 🐛 224 | 🌐 Go | 📅 2026-07-29
 * [Ory Keto](https://github.com/ory/keto) ⭐ 5,388 | 🐛 73 | 🌐 Go | 📅 2026-08-21
 * [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,522 | 🐛 13 | 🌐 Go | 📅 2026-07-17
 * [Ory Oathkeeper](https://github.com/ory/oathkeeper) ⭐ 3,596 | 🐛 108 | 🌐 Go | 📅 2026-07-27
@@ -100,7 +100,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 * [How to write an application that integrates Kratos in Go](https://stories.abletech.nz/integrating-third-party-provider-kratos-f5514b53af66)
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,838 | 🐛 224 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,842 | 🐛 224 | 🌐 Go | 📅 2026-07-29
 
 ### Ory Hydra
 
@@ -202,8 +202,8 @@ Community projects, configuration tools, or development helpers extending Ory se
 
 ### Ory Fosite
 
-* [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 2 | 🌐 Go | 📅 2026-08-18
-* [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 2 | 🌐 Go | 📅 2026-08-21
+* [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 1 | 🌐 Go | 📅 2026-08-23
+* [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-08-23
 
 ## Services
 
@@ -231,4 +231,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

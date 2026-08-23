@@ -15,7 +15,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17489
+            "stars": 17491
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-29T09:30:37Z",
             "owner": "ory",
             "repo": "kratos",
-            "stars": 13838
+            "stars": 13842
           }
         },
         {
@@ -623,7 +623,7 @@
                 "archived": false,
                 "id": 92012686,
                 "language": "Go",
-                "last_commit": "2026-08-18T20:33:46Z",
+                "last_commit": "2026-08-23T04:22:28Z",
                 "owner": "matthewhartstonge",
                 "repo": "storage",
                 "stars": 20
@@ -638,7 +638,7 @@
                 "archived": false,
                 "id": 91993042,
                 "language": "Go",
-                "last_commit": "2026-08-21T08:04:45Z",
+                "last_commit": "2026-08-23T04:06:37Z",
                 "owner": "matthewhartstonge",
                 "repo": "hasher",
                 "stars": 2
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:48:27.891Z",
+    "last_updated": "2026-08-23T09:50:19.535Z",
     "original_repository": "ory/awesome-ory",
     "original_repository_id": 480431554,
     "original_repository_sha": "0838e1c6b963cc5b62d05d70db128e6506e6a9c1",
