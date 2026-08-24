@@ -97,6 +97,56 @@
       "title": "Ecosystem"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ory Kratos reverse proxy (Nginx) example",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135321861,
+                "language": "Go",
+                "last_commit": "2026-07-29T09:30:37Z",
+                "owner": "ory",
+                "repo": "kratos",
+                "stars": 13846
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ory Kratos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ory Oathkeeper Istio best practices/reference configuration",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104739489,
+                "language": "Go",
+                "last_commit": "2026-07-27T15:23:59Z",
+                "owner": "ory",
+                "repo": "oathkeeper",
+                "stars": 3596
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ory Oathkeepeer"
+        }
+      ],
+      "title": "Blog posts"
+    },
+    {
       "description": "Code examples that show how to integrate Ory with a framework, software stack, or how to solve a specific use case.",
       "items": [
         {
@@ -616,6 +666,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Ory Keto Terraform provider",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693627506,
+                "language": "Go",
+                "last_commit": "2023-09-23T14:47:22Z",
+                "owner": "76creates",
+                "repo": "terraform-provider-oryketo",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ory Keto"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CLI to create Ory Oathkeeper rules from OpenAPI spec",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611484700,
+                "language": "Go",
+                "last_commit": "2026-08-24T02:36:22Z",
+                "owner": "cerberauth",
+                "repo": "openapi-oathkeeper",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ory Oathkeeper"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "MongoDB storage for Ory Fosite",
               "description": null,
               "children": [],
@@ -654,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:08:49.432Z",
+    "last_updated": "2026-08-24T14:32:27.216Z",
     "original_repository": "ory/awesome-ory",
     "original_repository_id": 480431554,
     "original_repository_sha": "0838e1c6b963cc5b62d05d70db128e6506e6a9c1",
