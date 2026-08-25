@@ -49,7 +49,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,496 | 🐛 94 | 🌐 Go | 📅 2026-07-29
+* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,495 | 🐛 94 | 🌐 Go | 📅 2026-07-29
 * [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,846 | 🐛 224 | 🌐 Go | 📅 2026-07-29
 * [Ory Keto](https://github.com/ory/keto) ⭐ 5,389 | 🐛 73 | 🌐 Go | 📅 2026-08-24
 * [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,522 | 🐛 13 | 🌐 Go | 📅 2026-07-17
@@ -189,7 +189,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 * [Ory Hydra Terraform Provider](https://github.com/svrakitin/terraform-provider-hydra) ⭐ 23 | 🐛 6 | 🌐 Go | 📅 2024-12-11
 * [Ory Hydra OAuth2 Token Exchange RFC 8693](https://github.com/ApelegHQ/ts-hydra-rfc8693) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-12
 * [Ory Hydra Golang HTTP middleware](https://github.com/ngyewch/hydra-login-consent) ⭐ 7 | 🐛 1 | 🌐 Go | 📅 2026-06-08
-* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-08-11
+* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 2 | 🌐 Java | 📅 2026-08-24
 * [Ory Hydra ExpressJS OAuth2 Middleware for MCP Servers](https://github.com/jeffdyke/hydra-headless-ts) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19
 
 ### Ory Keto
@@ -202,7 +202,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 
 ### Ory Fosite
 
-* [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 1 | 🌐 Go | 📅 2026-08-23
+* [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 2 | 🌐 Go | 📅 2026-08-24
 * [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-08-23
 
 ## Services
@@ -231,4 +231,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

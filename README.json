@@ -15,7 +15,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17496
+            "stars": 17495
           }
         },
         {
@@ -636,7 +636,7 @@
                 "archived": false,
                 "id": 689195435,
                 "language": "Java",
-                "last_commit": "2026-08-11T00:59:43Z",
+                "last_commit": "2026-08-24T19:53:14Z",
                 "owner": "ardetrick",
                 "repo": "testcontainers-ory-hydra",
                 "stars": 4
@@ -717,7 +717,7 @@
                 "archived": false,
                 "id": 92012686,
                 "language": "Go",
-                "last_commit": "2026-08-23T04:22:28Z",
+                "last_commit": "2026-08-24T21:50:46Z",
                 "owner": "matthewhartstonge",
                 "repo": "storage",
                 "stars": 20
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:32:27.216Z",
+    "last_updated": "2026-08-25T06:25:45.776Z",
     "original_repository": "ory/awesome-ory",
     "original_repository_id": 480431554,
     "original_repository_sha": "0838e1c6b963cc5b62d05d70db128e6506e6a9c1",
