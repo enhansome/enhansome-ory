@@ -15,7 +15,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17495
+            "stars": 17496
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-29T09:30:37Z",
             "owner": "ory",
             "repo": "kratos",
-            "stars": 13846
+            "stars": 13847
           }
         },
         {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-07-29T09:30:37Z",
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13846
+                "stars": 13847
               }
             }
           ],
@@ -257,7 +257,7 @@
                 "archived": false,
                 "id": 328242138,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:32:03Z",
+                "last_commit": "2026-08-25T15:08:59Z",
                 "owner": "dfoxg",
                 "repo": "kratos-admin-ui",
                 "stars": 195
@@ -695,7 +695,7 @@
                 "archived": false,
                 "id": 611484700,
                 "language": "Go",
-                "last_commit": "2026-08-24T02:36:22Z",
+                "last_commit": "2026-08-25T19:54:49Z",
                 "owner": "cerberauth",
                 "repo": "openapi-oathkeeper",
                 "stars": 11
@@ -717,7 +717,7 @@
                 "archived": false,
                 "id": 92012686,
                 "language": "Go",
-                "last_commit": "2026-08-24T21:50:46Z",
+                "last_commit": "2026-08-25T22:20:36Z",
                 "owner": "matthewhartstonge",
                 "repo": "storage",
                 "stars": 20
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:58:46.715Z",
+    "last_updated": "2026-08-26T10:04:04.615Z",
     "original_repository": "ory/awesome-ory",
     "original_repository_id": 480431554,
     "original_repository_sha": "0838e1c6b963cc5b62d05d70db128e6506e6a9c1",
