@@ -15,7 +15,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17496
+            "stars": 17502
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-29T09:30:37Z",
             "owner": "ory",
             "repo": "kratos",
-            "stars": 13847
+            "stars": 13850
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T03:44:49Z",
             "owner": "ory",
             "repo": "keto",
-            "stars": 5389
+            "stars": 5391
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-27T15:23:59Z",
             "owner": "ory",
             "repo": "oathkeeper",
-            "stars": 3596
+            "stars": 3597
           }
         },
         {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-07-29T09:30:37Z",
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13847
+                "stars": 13850
               }
             }
           ],
@@ -135,7 +135,7 @@
                 "last_commit": "2026-07-27T15:23:59Z",
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3596
+                "stars": 3597
               }
             }
           ],
@@ -257,7 +257,7 @@
                 "archived": false,
                 "id": 328242138,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T15:08:59Z",
+                "last_commit": "2026-08-27T00:00:50Z",
                 "owner": "dfoxg",
                 "repo": "kratos-admin-ui",
                 "stars": 195
@@ -636,7 +636,7 @@
                 "archived": false,
                 "id": 689195435,
                 "language": "Java",
-                "last_commit": "2026-08-24T19:53:14Z",
+                "last_commit": "2026-08-26T17:48:14Z",
                 "owner": "ardetrick",
                 "repo": "testcontainers-ory-hydra",
                 "stars": 4
@@ -651,7 +651,7 @@
                 "archived": false,
                 "id": 1072378136,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T13:13:18Z",
+                "last_commit": "2026-08-26T17:45:03Z",
                 "owner": "jeffdyke",
                 "repo": "hydra-headless-ts",
                 "stars": 0
@@ -748,9 +748,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:04:04.615Z",
-    "original_repository": "ory/awesome-ory",
-    "original_repository_id": 480431554,
+    "last_updated": "2026-08-27T11:56:54.690Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 480431554,
+      "language": "Dart",
+      "last_commit": "2026-02-05T14:11:31Z",
+      "owner": "ory",
+      "repo": "awesome-ory",
+      "stars": 201
+    },
     "original_repository_sha": "0838e1c6b963cc5b62d05d70db128e6506e6a9c1",
     "enhanced_repository": "enhansome/enhansome-ory",
     "enhanced_repository_description": null,
