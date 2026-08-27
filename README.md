@@ -49,9 +49,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,502 | 🐛 94 | 🌐 Go | 📅 2026-07-29
+* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,503 | 🐛 93 | 🌐 Go | 📅 2026-07-29
 * [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,850 | 🐛 222 | 🌐 Go | 📅 2026-07-29
-* [Ory Keto](https://github.com/ory/keto) ⭐ 5,391 | 🐛 73 | 🌐 Go | 📅 2026-08-24
+* [Ory Keto](https://github.com/ory/keto) ⭐ 5,392 | 🐛 73 | 🌐 Go | 📅 2026-08-24
 * [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,522 | 🐛 13 | 🌐 Go | 📅 2026-07-17
 * [Ory Oathkeeper](https://github.com/ory/oathkeeper) ⭐ 3,597 | 🐛 108 | 🌐 Go | 📅 2026-07-27
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,612 | 🐛 59 | 🌐 Go | 📅 2025-11-20
@@ -198,7 +198,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 
 ### Ory Oathkeeper
 
-* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 11 | 🐛 7 | 🌐 Go | 📅 2026-08-25
+* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 11 | 🐛 7 | 🌐 Go | 📅 2026-08-27
 
 ### Ory Fosite
 

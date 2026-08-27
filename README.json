@@ -15,7 +15,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17502
+            "stars": 17503
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T03:44:49Z",
             "owner": "ory",
             "repo": "keto",
-            "stars": 5391
+            "stars": 5392
           }
         },
         {
@@ -695,7 +695,7 @@
                 "archived": false,
                 "id": 611484700,
                 "language": "Go",
-                "last_commit": "2026-08-25T19:54:49Z",
+                "last_commit": "2026-08-27T12:16:33Z",
                 "owner": "cerberauth",
                 "repo": "openapi-oathkeeper",
                 "stars": 11
@@ -748,7 +748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:54.690Z",
+    "last_updated": "2026-08-27T19:54:13.804Z",
     "original_repository_info": {
       "archived": false,
       "id": 480431554,
