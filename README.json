@@ -19,7 +19,7 @@
             "open_issues": 94,
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17510,
+            "stars": 17511,
             "topics": [
               "authorization",
               "cloud",
@@ -61,7 +61,7 @@
             "open_issues": 222,
             "owner": "ory",
             "repo": "kratos",
-            "stars": 13855,
+            "stars": 13856,
             "topics": [
               "hacktoberfest",
               "identity",
@@ -230,7 +230,7 @@
                 "open_issues": 222,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13855,
+                "stars": 13856,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1269,7 +1269,7 @@
                 "id": 611484700,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T01:16:23Z",
+                "last_commit": "2026-08-29T10:48:21Z",
                 "open_issues": 7,
                 "owner": "cerberauth",
                 "repo": "openapi-oathkeeper",
@@ -1366,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:59.887Z",
+    "last_updated": "2026-08-29T14:36:22.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
