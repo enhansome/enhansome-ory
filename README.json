@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go.",
+            "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=hydra",
             "id": 36071697,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-29T09:30:11Z",
+            "open_issues": 94,
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17510
+            "stars": 17510,
+            "topics": [
+              "authorization",
+              "cloud",
+              "docker",
+              "federation",
+              "hacktoberfest",
+              "hydra",
+              "identity",
+              "oauth",
+              "oauth-provider",
+              "oauth2",
+              "oauth2-provider",
+              "oauth2-server",
+              "oidc",
+              "openid",
+              "openid-connect",
+              "openid-connect-provider",
+              "openid-provider",
+              "security",
+              "server",
+              "sso"
+            ]
           },
           "first_seen": "2026-08-28T20:57:45.429Z"
         },
@@ -26,12 +52,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. ",
+            "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=kratos",
             "id": 135321861,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-29T09:30:37Z",
+            "open_issues": 222,
             "owner": "ory",
             "repo": "kratos",
-            "stars": 13855
+            "stars": 13855,
+            "topics": [
+              "hacktoberfest",
+              "identity",
+              "identity-management",
+              "login",
+              "profile-management",
+              "registration",
+              "user",
+              "user-management",
+              "user-profile",
+              "user-profiles",
+              "users"
+            ]
           },
           "first_seen": "2026-08-28T20:57:45.429Z"
         },
@@ -42,12 +85,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven \"Zanzibar\" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.",
+            "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=keto",
             "id": 125619154,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T03:44:49Z",
+            "open_issues": 73,
             "owner": "ory",
             "repo": "keto",
-            "stars": 5392
+            "stars": 5392,
+            "topics": [
+              "abac",
+              "access-control",
+              "acl",
+              "authorization",
+              "fine-grained-permissions",
+              "hacktoberfest",
+              "iam",
+              "permission-management",
+              "permissions",
+              "policy-management",
+              "rbac",
+              "rebac",
+              "relation-tuples",
+              "zanzibar"
+            ]
           },
           "first_seen": "2026-08-28T20:57:45.429Z"
         },
@@ -58,12 +121,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.",
+            "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=dockertest",
             "id": 32550033,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-17T14:03:10Z",
+            "open_issues": 13,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4522
+            "stars": 4522,
+            "topics": [
+              "automation",
+              "ci",
+              "docker",
+              "go",
+              "integration-testing",
+              "tests",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T20:57:45.429Z"
         },
@@ -74,12 +150,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.",
+            "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=hydra",
             "id": 104739489,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T15:23:59Z",
+            "open_issues": 108,
             "owner": "ory",
             "repo": "oathkeeper",
-            "stars": 3597
+            "stars": 3597,
+            "topics": [
+              "api-gateway",
+              "golang",
+              "hacktoberfest",
+              "oauth2",
+              "openid-connect",
+              "ory",
+              "ory-oathkeeper",
+              "reverse-proxy"
+            ]
           },
           "first_seen": "2026-08-28T20:57:45.429Z"
         },
@@ -90,12 +180,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.",
+            "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=fosite",
             "id": 48582772,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-20T01:13:40Z",
+            "open_issues": 59,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2613
+            "stars": 2613,
+            "topics": [
+              "auth",
+              "authentication",
+              "authorization",
+              "golang",
+              "hacktoberfest",
+              "library",
+              "oauth",
+              "oauth2",
+              "openid-connect",
+              "sdk",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T20:57:45.429Z"
         }
@@ -114,12 +221,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. ",
+                "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=kratos",
                 "id": 135321861,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
+                "open_issues": 222,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13855
+                "stars": 13855,
+                "topics": [
+                  "hacktoberfest",
+                  "identity",
+                  "identity-management",
+                  "login",
+                  "profile-management",
+                  "registration",
+                  "user",
+                  "user-management",
+                  "user-profile",
+                  "user-profiles",
+                  "users"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             }
@@ -137,12 +261,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.",
+                "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=hydra",
                 "id": 104739489,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-27T15:23:59Z",
+                "open_issues": 108,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3597
+                "stars": 3597,
+                "topics": [
+                  "api-gateway",
+                  "golang",
+                  "hacktoberfest",
+                  "oauth2",
+                  "openid-connect",
+                  "ory",
+                  "ory-oathkeeper",
+                  "reverse-proxy"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             }
@@ -166,12 +304,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microservices example using NestJS, Kubernetes in Nx workspace",
+                "homepage": null,
                 "id": 423703830,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-08-26T14:17:12Z",
+                "open_issues": 10,
                 "owner": "getlarge",
                 "repo": "ticketing",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "angular",
+                  "docker",
+                  "esmodules",
+                  "fastify",
+                  "kubernetes",
+                  "microservices",
+                  "nestjs",
+                  "nodejs",
+                  "nx-workspace",
+                  "ory",
+                  "rabbitmq"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -182,12 +337,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Oathkeeper, Kratos and Keto in kubernetes.",
+                "homepage": null,
                 "id": 350883105,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-04-18T16:32:25Z",
+                "open_issues": 0,
                 "owner": "pngouin",
                 "repo": "k8s-ory-example",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "2fa",
+                  "keto",
+                  "kratos",
+                  "kubernetes",
+                  "kustomize",
+                  "mfa",
+                  "oathkeeper",
+                  "ory",
+                  "ory-keto",
+                  "ory-kratos",
+                  "ory-oathkeeper"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -198,12 +370,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui",
+                "homepage": null,
                 "id": 795323632,
                 "language": "TypeScript",
+                "license": "Unlicense",
                 "last_commit": "2025-11-25T19:30:16Z",
+                "open_issues": 4,
                 "owner": "MarkusThielker",
                 "repo": "next-ory",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "docker",
+                  "nextjs",
+                  "ory",
+                  "ory-hydra",
+                  "ory-kratos",
+                  "react",
+                  "tailwindcss",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -214,12 +400,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Front end solutions for ory services written in asp.net",
+                "homepage": null,
                 "id": 697840699,
                 "language": "CSS",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-25T12:02:36Z",
+                "open_issues": 2,
                 "owner": "josxha",
                 "repo": "OryUI",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "authentication",
+                  "authorization",
+                  "blazor",
+                  "dotnet",
+                  "dotnet-core",
+                  "identity-management",
+                  "oauth2",
+                  "ory",
+                  "ory-hydra",
+                  "ory-keto",
+                  "ory-kratos",
+                  "ory-oathkeeper",
+                  "razor-pages"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -230,12 +435,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trying Kong API Gateway (self-hosted) with Ory Kratos + OauthKeeper for microservices with docker-compose",
+                "homepage": null,
                 "id": 722767014,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-24T01:19:05Z",
+                "open_issues": 0,
                 "owner": "Pterygoidien",
                 "repo": "Kong-Ory-Microservices",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "docker-compose",
+                  "kong",
+                  "kong-api-gateway",
+                  "ory",
+                  "ory-kratos",
+                  "ory-oathkeeper"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -246,12 +463,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an example to deploy apisix as gateway with linkerd and the ory stack using kustomize.",
+                "homepage": null,
                 "id": 735109449,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-02T16:58:29Z",
+                "open_issues": 0,
                 "owner": "iverly",
                 "repo": "kube-apisix-linkerd-ory-kustomize",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "apisix",
+                  "gitops",
+                  "kubernetes",
+                  "kustomize",
+                  "linkerd",
+                  "ory",
+                  "vault"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             }
@@ -269,12 +499,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Admin-Interface for ory/kratos",
+                "homepage": null,
                 "id": 328242138,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:33:58Z",
+                "open_issues": 8,
                 "owner": "dfoxg",
                 "repo": "kratos-admin-ui",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "admin-dashboard",
+                  "kratos",
+                  "ory-kratos"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -285,12 +524,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern, responsive admin interface for Ory Kratos identity management system. Features identity management, session monitoring, analytics dashboard, and schema inspection.",
+                "homepage": "https://admin.ory.cloud-ctl.com",
                 "id": 944309590,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T08:09:30Z",
+                "open_issues": 10,
                 "owner": "dhia-gharsallaoui",
                 "repo": "kratos-admin-ui",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "identity-management",
+                  "material-ui",
+                  "nextjs",
+                  "ory",
+                  "ory-kratos",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -301,12 +553,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-service UI for Ory Kratos built using SvelteKit, MeltUI and TailwindCSS",
+                "homepage": null,
                 "id": 765055341,
                 "language": "Svelte",
+                "license": "MPL-2.0",
                 "last_commit": "2025-01-09T13:13:24Z",
+                "open_issues": 1,
                 "owner": "karlis-vagalis",
                 "repo": "kratos-selfservice",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "melt-ui",
+                  "ory",
+                  "ory-kratos",
+                  "sveltekit",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -317,12 +580,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-service Svelte node for Ory Kratos",
+                "homepage": null,
                 "id": 401271122,
                 "language": "Svelte",
+                "license": null,
                 "last_commit": "2023-09-25T15:04:20Z",
+                "open_issues": 1,
                 "owner": "emrahcom",
                 "repo": "kratos-selfservice-svelte-node",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "authentication",
+                  "ory-kratos",
+                  "svelte",
+                  "sveltekit"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -333,12 +606,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple example to show how to integrate nuxt3 with Ory Krator",
+                "homepage": null,
                 "id": 869710726,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2024-10-10T06:14:03Z",
+                "open_issues": 0,
                 "owner": "khusseini",
                 "repo": "nuxt-kratos-selfservice",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "nuxt3",
+                  "ory-kratos"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -349,12 +630,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides authentication to Plug applications by integrating with Ory Kratos, https://github.com/ory/kratos",
+                "homepage": null,
                 "id": 652704897,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2023-06-13T18:19:36Z",
+                "open_issues": 1,
                 "owner": "ScoreVision",
                 "repo": "kratos_plug",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "kratos",
+                  "ory",
+                  "plug"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -365,12 +655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo Ory Kratos from a SvelteKit client, backend-for-frontend style ",
+                "homepage": null,
                 "id": 793695801,
                 "language": "Svelte",
+                "license": "MPL-2.0",
                 "last_commit": "2024-04-29T18:15:59Z",
+                "open_issues": 0,
                 "owner": "bessey",
                 "repo": "ory-kratos-sveltekit-demo",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -381,12 +676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-service UI for Ory Kratos built using Dioxus, TailwindCSS, and daisyUI.",
+                "homepage": "https://hub.docker.com/r/jeseng/kratos-selfservice-wasm",
                 "id": 1007309156,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-24T17:17:26Z",
+                "open_issues": 4,
                 "owner": "justins-engineering",
                 "repo": "kratos-selfservice-wasm",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             }
@@ -404,12 +704,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example/reference implementation of Ory Hydra in Java with SpringBoot. Shows the basicis of OAuth2 integraiton with OIDC. Includes a full suite of integration tests using Testcontainers.",
+                "homepage": null,
                 "id": 565243062,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-02T20:51:30Z",
+                "open_issues": 1,
                 "owner": "ardetrick",
                 "repo": "ory-hydra-refrence-java",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "gradle",
+                  "java",
+                  "oauth2",
+                  "oauth2-authorization",
+                  "oauth2-provider",
+                  "oauth2-server",
+                  "oidc",
+                  "ory-hydra",
+                  "playwright",
+                  "playwright-java",
+                  "spring-boot",
+                  "springboot",
+                  "testcontainers"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -420,12 +739,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Client Integrations with OAuth2.0 & OIDC Identity providers using different Grant Flows. ",
+                "homepage": null,
                 "id": 401482440,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-02-02T09:40:51Z",
+                "open_issues": 0,
                 "owner": "shauryadhadwal",
                 "repo": "oauth2-oidc-client-integrations",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "expressjs",
+                  "identity",
+                  "javascript",
+                  "oauth2",
+                  "oidc",
+                  "ory",
+                  "ory-hydra",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -436,12 +769,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ORY Hydra + Spring Boot 2 + Angular + PostgreSQL",
+                "homepage": null,
                 "id": 679867524,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2023-12-26T18:59:16Z",
+                "open_issues": 0,
                 "owner": "Chistousov",
                 "repo": "ORY-Hydra-OAuth2.0-Example",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "angular",
+                  "buildpack",
+                  "buildpacks",
+                  "docker",
+                  "docker-compose",
+                  "junit",
+                  "junit5",
+                  "karma",
+                  "nginx",
+                  "ory-hydra",
+                  "paketo-buildpack",
+                  "reactive-programming",
+                  "spring-boot",
+                  "spring-security",
+                  "testcontainers",
+                  "webflux",
+                  "webflux-security"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -452,12 +808,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OAuth2 Ory Hydra Golang Identity Provider. Account management microservice. Clean Architecture. SOLID principles. Unit Test. Table Driven tests. Mock.",
+                "homepage": null,
                 "id": 514551228,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2023-01-14T20:51:34Z",
+                "open_issues": 0,
                 "owner": "M3ikShizuka",
                 "repo": "service-account",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "account",
+                  "clean-architecture",
+                  "database",
+                  "databases",
+                  "golang",
+                  "gomock",
+                  "gorm",
+                  "gorm-orm",
+                  "identityprovider",
+                  "microservice",
+                  "mock",
+                  "oauth2",
+                  "ory-hydra",
+                  "postgresql",
+                  "service",
+                  "solid",
+                  "unit-test",
+                  "viper",
+                  "zap"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -468,12 +849,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Account creation, authentication, and MFA for MetaWarrior Army",
+                "homepage": "https://auth.metawarrior.army",
                 "id": 779529475,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-25T03:33:07Z",
+                "open_issues": 0,
                 "owner": "MetaWarrior-Army",
                 "repo": "mwa-auth",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "mfa",
+                  "next-auth",
+                  "nextjs",
+                  "nft",
+                  "oauth2",
+                  "ory-hy",
+                  "pg",
+                  "pinata-ipfs",
+                  "siwe",
+                  "web3",
+                  "webauthn"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             }
@@ -497,12 +895,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A suite of libraries to make NestJS and Ory fall in love",
+                "homepage": null,
                 "id": 741531114,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-06-02T12:41:30Z",
+                "open_issues": 15,
                 "owner": "getlarge",
                 "repo": "nestjs-ory-integration",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "authentication",
+                  "authorization",
+                  "nestjs",
+                  "nestjs-library",
+                  "nx",
+                  "ory",
+                  "ory-hydra",
+                  "ory-keto",
+                  "ory-kratos"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -513,12 +926,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A HashiCorp Vault auth plugin for Ory Kratos and Ory Keto.",
+                "homepage": null,
                 "id": 557842217,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-01-17T13:03:11Z",
+                "open_issues": 3,
                 "owner": "comnoco",
                 "repo": "vault-plugin-auth-ory",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "comnoco",
+                  "hashicorp",
+                  "keto",
+                  "kratos",
+                  "ory",
+                  "ory-keto",
+                  "ory-kratos",
+                  "vault"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             }
@@ -536,12 +963,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple service to implement read-only traits in Ory Kratos",
+                "homepage": null,
                 "id": 571666019,
                 "language": "Go",
+                "license": "Unlicense",
                 "last_commit": "2022-11-29T12:44:11Z",
+                "open_issues": 0,
                 "owner": "lus",
                 "repo": "kratos-readonly-traits",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -552,12 +984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server for Ory Kratos",
+                "homepage": null,
                 "id": 1134247800,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-15T16:21:35Z",
+                "open_issues": 0,
                 "owner": "feedback-loop-ai",
                 "repo": "mcp-ory-kratos",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -568,12 +1005,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Symfony Authenticator for Ory Kratos (mirror)",
+                "homepage": "https://stethome.com/",
                 "id": 685520671,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-11-23T21:05:39Z",
+                "open_issues": 0,
                 "owner": "stethome",
                 "repo": "ory-auth-bundle",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "kratos",
+                  "ory",
+                  "php",
+                  "stethome",
+                  "symfony",
+                  "symfony-security"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -584,12 +1033,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Ory Kratos integration in loopback4 applications",
+                "homepage": null,
                 "id": 537937908,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-25T23:56:59Z",
+                "open_issues": 0,
                 "owner": "giuseppegrieco",
                 "repo": "loopback4-kratos",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "kratos",
+                  "loopback4",
+                  "loopback4-kratos"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -600,12 +1058,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A fork of ory-kratos-client that uses the browser's Fetch API instead of reqwest when building for wasm.",
+                "homepage": "https://crates.io/crates/ory-kratos-client-wasm",
                 "id": 1016183696,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T14:55:49Z",
+                "open_issues": 0,
                 "owner": "justins-engineering",
                 "repo": "kratos-client-rust",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             }
@@ -623,12 +1086,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform provider for ory/hydra",
+                "homepage": "https://registry.terraform.io/providers/svrakitin/hydra/latest",
                 "id": 338877411,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-12-11T23:21:03Z",
+                "open_issues": 6,
                 "owner": "svrakitin",
                 "repo": "terraform-provider-hydra",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "hydra",
+                  "jwks",
+                  "jwt",
+                  "oauth2",
+                  "ory",
+                  "terraform",
+                  "terraform-provider"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -639,12 +1115,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of RFC 8693 for Ory Hydra, providing powerful capabilities for token exchange in OAuth 2.0 and OpenID Connect servers.",
+                "homepage": "https://www.npmjs.com/package/@exact-realty/hydra-rfc8693",
                 "id": 489522182,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-12T21:53:23Z",
+                "open_issues": 1,
                 "owner": "ApelegHQ",
                 "repo": "ts-hydra-rfc8693",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "authentication",
+                  "iam",
+                  "identity",
+                  "identity-management",
+                  "oauth2",
+                  "openid-connect",
+                  "ory-hydra",
+                  "rfc8693",
+                  "token-exchange"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -655,12 +1146,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Golang http middleware for implementing the User Login and Consent flow of Ory OAuth2 service (Hydra).",
+                "homepage": null,
                 "id": 728049558,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-08T03:27:58Z",
+                "open_issues": 1,
                 "owner": "ngyewch",
                 "repo": "hydra-login-consent",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "golang",
+                  "middleware",
+                  "oauth2",
+                  "oidc",
+                  "ory",
+                  "ory-hydra"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -671,12 +1174,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Testcontainers module for Ory Hydra — spin up a real Ory Hydra OAuth 2.0 / OpenID Connect server in your Java integration tests. Zero-config, SQLite by default, fluent builder API.",
+                "homepage": "https://central.sonatype.com/artifact/com.ardetrick.testcontainers/testcontainers-ory-hydra",
                 "id": 689195435,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:48:14Z",
+                "open_issues": 1,
                 "owner": "ardetrick",
                 "repo": "testcontainers-ory-hydra",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "integration-testing",
+                  "java",
+                  "junit5",
+                  "oauth",
+                  "oauth2",
+                  "oidc",
+                  "openid-connect",
+                  "ory",
+                  "ory-hydra",
+                  "testcontainers",
+                  "testcontainers-java",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -687,12 +1208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ExpressJS EffectTS OAuth2 Middleware for MCP Servers",
+                "homepage": null,
                 "id": 1072378136,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T17:45:03Z",
+                "open_issues": 0,
                 "owner": "jeffdyke",
                 "repo": "hydra-headless-ts",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             }
@@ -710,12 +1236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform provider for Ory Keto ",
+                "homepage": null,
                 "id": 693627506,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-23T14:47:22Z",
+                "open_issues": 0,
                 "owner": "76creates",
                 "repo": "terraform-provider-oryketo",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             }
@@ -733,12 +1264,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "openapi-oathkeeper is a CLI for generating Ory Oathkeeper rules from an OpenAPI 3 contract and save a lot of time and effort, especially for larger projects with many endpoints or many services.",
+                "homepage": "https://www.cerberauth.com",
                 "id": 611484700,
                 "language": "Go",
-                "last_commit": "2026-08-28T12:01:27Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:16:23Z",
+                "open_issues": 7,
                 "owner": "cerberauth",
                 "repo": "openapi-oathkeeper",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "api-rest",
+                  "authorization",
+                  "cybersecurity",
+                  "golang",
+                  "oathkeeper",
+                  "openapi",
+                  "openapi3",
+                  "ory",
+                  "ory-oathkeeper",
+                  "security",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             }
@@ -756,12 +1304,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Mongo Storage backend for https://github.com/ory/fosite",
+                "homepage": null,
                 "id": 92012686,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:20:36Z",
+                "open_issues": 2,
                 "owner": "matthewhartstonge",
                 "repo": "storage",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "fosite",
+                  "fosite-storage-mongo",
+                  "go",
+                  "golang",
+                  "mongo",
+                  "oauth2",
+                  "storage",
+                  "storage-backend"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             },
@@ -772,12 +1334,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Argon2 Hasher for https://github.com/ory/fosite",
+                "homepage": null,
                 "id": 91993042,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T04:06:37Z",
+                "open_issues": 0,
                 "owner": "matthewhartstonge",
                 "repo": "hasher",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "argon2",
+                  "argon2id",
+                  "fosite",
+                  "go",
+                  "golang",
+                  "hasher",
+                  "oauth2"
+                ]
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
             }
@@ -791,15 +1366,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:57:45.429Z",
+    "last_updated": "2026-08-29T04:54:59.887Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated collection of examples and solutions created by the Ory Community. ",
+      "homepage": "https://www.ory.sh/?utm_source=github&utm_medium=banner&utm_campaign=awesome-ory",
       "id": 480431554,
       "language": "Dart",
+      "license": "Apache-2.0",
       "last_commit": "2026-08-28T18:56:56Z",
+      "open_issues": 2,
       "owner": "ory",
       "repo": "awesome-ory",
-      "stars": 201
+      "stars": 201,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ory",
+        "ory-hydra",
+        "ory-keto",
+        "ory-kratos",
+        "ory-oathkeeper"
+      ]
     },
     "original_repository_sha": "0061edc99ace60fbb4afda932f94bbefead4b891",
     "enhanced_repository": "enhansome/enhansome-ory",
