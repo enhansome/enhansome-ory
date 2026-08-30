@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-07-29T09:30:11Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "ory",
             "repo": "hydra",
             "stars": 17511,
@@ -58,10 +58,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-07-29T09:30:37Z",
-            "open_issues": 222,
+            "open_issues": 223,
             "owner": "ory",
             "repo": "kratos",
-            "stars": 13856,
+            "stars": 13853,
             "topics": [
               "hacktoberfest",
               "identity",
@@ -227,10 +227,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 222,
+                "open_issues": 223,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13856,
+                "stars": 13853,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1269,7 +1269,7 @@
                 "id": 611484700,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T10:48:21Z",
+                "last_commit": "2026-08-30T13:53:48Z",
                 "open_issues": 7,
                 "owner": "cerberauth",
                 "repo": "openapi-oathkeeper",
@@ -1366,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:36:22.720Z",
+    "last_updated": "2026-08-30T14:27:59.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
