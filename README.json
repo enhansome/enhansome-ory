@@ -5,117 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Ory Hydra",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go.",
-            "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=hydra",
-            "id": 36071697,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-07-29T09:30:11Z",
-            "open_issues": 95,
-            "owner": "ory",
-            "repo": "hydra",
-            "stars": 17511,
-            "topics": [
-              "authorization",
-              "cloud",
-              "docker",
-              "federation",
-              "hacktoberfest",
-              "hydra",
-              "identity",
-              "oauth",
-              "oauth-provider",
-              "oauth2",
-              "oauth2-provider",
-              "oauth2-server",
-              "oidc",
-              "openid",
-              "openid-connect",
-              "openid-connect-provider",
-              "openid-provider",
-              "security",
-              "server",
-              "sso"
-            ]
-          },
-          "first_seen": "2026-08-28T20:57:45.429Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ory Kratos",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. ",
-            "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=kratos",
-            "id": 135321861,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-07-29T09:30:37Z",
-            "open_issues": 222,
-            "owner": "ory",
-            "repo": "kratos",
-            "stars": 13857,
-            "topics": [
-              "hacktoberfest",
-              "identity",
-              "identity-management",
-              "login",
-              "profile-management",
-              "registration",
-              "user",
-              "user-management",
-              "user-profile",
-              "user-profiles",
-              "users"
-            ]
-          },
-          "first_seen": "2026-08-28T20:57:45.429Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ory Keto",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven \"Zanzibar\" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.",
-            "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=keto",
-            "id": 125619154,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-31T03:45:43Z",
-            "open_issues": 74,
-            "owner": "ory",
-            "repo": "keto",
-            "stars": 5392,
-            "topics": [
-              "abac",
-              "access-control",
-              "acl",
-              "authorization",
-              "fine-grained-permissions",
-              "hacktoberfest",
-              "iam",
-              "permission-management",
-              "permissions",
-              "policy-management",
-              "rbac",
-              "rebac",
-              "relation-tuples",
-              "zanzibar"
-            ]
-          },
-          "first_seen": "2026-08-28T20:57:45.429Z"
-        },
-        {
-          "node_type": "item",
           "title": "Ory Dockertest",
           "description": null,
           "children": [],
@@ -130,7 +19,7 @@
             "open_issues": 13,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4523,
+            "stars": 4524,
             "topics": [
               "automation",
               "ci",
@@ -139,36 +28,6 @@
               "integration-testing",
               "tests",
               "unit-testing"
-            ]
-          },
-          "first_seen": "2026-08-28T20:57:45.429Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ory Oathkeeper",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.",
-            "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=hydra",
-            "id": 104739489,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-07-27T15:23:59Z",
-            "open_issues": 108,
-            "owner": "ory",
-            "repo": "oathkeeper",
-            "stars": 3596,
-            "topics": [
-              "api-gateway",
-              "golang",
-              "hacktoberfest",
-              "oauth2",
-              "openid-connect",
-              "ory",
-              "ory-oathkeeper",
-              "reverse-proxy"
             ]
           },
           "first_seen": "2026-08-28T20:57:45.429Z"
@@ -186,10 +45,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2025-11-20T01:13:40Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2613,
+            "stars": 2614,
             "topics": [
               "auth",
               "authentication",
@@ -230,7 +89,7 @@
                 "open_issues": 222,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13857,
+                "stars": 13859,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1269,7 +1128,7 @@
                 "id": 611484700,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-30T18:40:06Z",
+                "last_commit": "2026-09-02T02:57:40Z",
                 "open_issues": 7,
                 "owner": "cerberauth",
                 "repo": "openapi-oathkeeper",
@@ -1309,8 +1168,8 @@
                 "id": 92012686,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-25T22:20:36Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-02T07:18:44Z",
+                "open_issues": 4,
                 "owner": "matthewhartstonge",
                 "repo": "storage",
                 "stars": 20,
@@ -1366,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:13:04.297Z",
+    "last_updated": "2026-09-02T13:45:21.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
@@ -1374,8 +1233,8 @@
       "id": 480431554,
       "language": "Dart",
       "license": "Apache-2.0",
-      "last_commit": "2026-08-28T18:56:56Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-01T14:34:39Z",
+      "open_issues": 2,
       "owner": "ory",
       "repo": "awesome-ory",
       "stars": 201,
@@ -1389,7 +1248,7 @@
         "ory-oathkeeper"
       ]
     },
-    "original_repository_sha": "0061edc99ace60fbb4afda932f94bbefead4b891",
+    "original_repository_sha": "8302a9f102715ab6cb5b172699aa5f8b7230901e",
     "enhanced_repository": "enhansome/enhansome-ory",
     "enhanced_repository_description": null,
     "title": "Awesome Ory with stars"
