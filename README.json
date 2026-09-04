@@ -48,7 +48,7 @@
             "open_issues": 61,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2614,
+            "stars": 2613,
             "topics": [
               "auth",
               "authentication",
@@ -89,7 +89,7 @@
                 "open_issues": 222,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13860,
+                "stars": 13864,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -129,7 +129,7 @@
                 "open_issues": 107,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3596,
+                "stars": 3597,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -363,7 +363,7 @@
                 "id": 328242138,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T12:47:32Z",
+                "last_commit": "2026-09-03T23:49:24Z",
                 "open_issues": 8,
                 "owner": "dfoxg",
                 "repo": "kratos-admin-ui",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:41:15.299Z",
+    "last_updated": "2026-09-04T13:38:00.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
