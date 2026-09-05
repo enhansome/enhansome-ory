@@ -49,8 +49,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,524 | 🐛 13 | 🌐 Go | 📅 2026-07-17
-* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,613 | 🐛 61 | 🌐 Go | 📅 2025-11-20
+* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,525 | 🐛 13 | 🌐 Go | 📅 2026-07-17
+* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,614 | 🐛 61 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
 * [Ory Kratos](https://www.ory.com/kratos)
@@ -98,7 +98,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,864 | 🐛 222 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,867 | 🐛 222 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 * [How to write an application that integrates Kratos in Go](https://stories.abletech.nz/integrating-third-party-provider-kratos-f5514b53af66)
 
@@ -150,7 +150,7 @@ Code examples that show how to integrate Ory with a framework, software stack, o
 
 ### Ory Kratos
 
-* [Ory Kratos Admin Interface in React example](https://github.com/dfoxg/kratos-admin-ui) ⭐ 195 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-03
+* [Ory Kratos Admin Interface in React example](https://github.com/dfoxg/kratos-admin-ui) ⚠️ Archived
 * [Ory Kratos Admin Interface with analytics](https://github.com/dhia-gharsallaoui/kratos-admin-ui) ⭐ 67 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24
 * [Ory Kratos Sveltekit with MeltUI and TailwindCSS example](https://github.com/karlis-vagalis/kratos-selfservice) ⭐ 33 | 🐛 1 | 🌐 Svelte | 📅 2025-01-09
 * [Ory Kratos Svelte Node example](https://github.com/emrahcom/kratos-selfservice-svelte-node) ⭐ 28 | 🐛 1 | 🌐 Svelte | 📅 2023-09-25
@@ -231,4 +231,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

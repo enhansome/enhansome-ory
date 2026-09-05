@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4524,
+            "stars": 4525,
             "topics": [
               "automation",
               "ci",
@@ -48,7 +48,7 @@
             "open_issues": 61,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2613,
+            "stars": 2614,
             "topics": [
               "auth",
               "authentication",
@@ -89,7 +89,7 @@
                 "open_issues": 222,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13864,
+                "stars": 13867,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -357,14 +357,14 @@
               "description": null,
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A simple Admin-Interface for ory/kratos",
                 "homepage": null,
                 "id": 328242138,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T23:49:24Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-04T22:23:30Z",
+                "open_issues": 9,
                 "owner": "dfoxg",
                 "repo": "kratos-admin-ui",
                 "stars": 195,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:38:00.073Z",
+    "last_updated": "2026-09-05T12:52:47.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
