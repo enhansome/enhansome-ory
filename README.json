@@ -48,7 +48,7 @@
             "open_issues": 61,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2614,
+            "stars": 2613,
             "topics": [
               "auth",
               "authentication",
@@ -89,7 +89,7 @@
                 "open_issues": 222,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13867,
+                "stars": 13866,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -129,7 +129,7 @@
                 "open_issues": 107,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3597,
+                "stars": 3598,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -848,8 +848,8 @@
                 "id": 1134247800,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T10:51:42Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-05T21:54:23Z",
+                "open_issues": 7,
                 "owner": "feedback-loop-ai",
                 "repo": "mcp-ory-kratos",
                 "stars": 1,
@@ -1038,8 +1038,8 @@
                 "id": 689195435,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-03T01:17:26Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-05T20:16:56Z",
+                "open_issues": 0,
                 "owner": "ardetrick",
                 "repo": "testcontainers-ory-hydra",
                 "stars": 4,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:52:47.200Z",
+    "last_updated": "2026-09-06T12:59:00.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",

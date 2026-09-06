@@ -50,7 +50,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 Overview of the main projects in the Ory ecosystem.
 
 * [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,525 | 🐛 13 | 🌐 Go | 📅 2026-07-17
-* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,614 | 🐛 61 | 🌐 Go | 📅 2025-11-20
+* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,613 | 🐛 61 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
 * [Ory Kratos](https://www.ory.com/kratos)
@@ -98,7 +98,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,867 | 🐛 222 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,866 | 🐛 222 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 * [How to write an application that integrates Kratos in Go](https://stories.abletech.nz/integrating-third-party-provider-kratos-f5514b53af66)
 
@@ -119,7 +119,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Oathkeepeer
 
-* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,597 | 🐛 107 | 🌐 Go | 📅 2026-07-27
+* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,598 | 🐛 107 | 🌐 Go | 📅 2026-07-27
 * [API Access Control with Ambassador and Ory Oathkeeper](https://blog.getambassador.io/part-2-api-access-control-and-authentication-with-kubernetes-ambassador-and-ory-oathkeeper-q-a-127fa57f6332?utm_content=76739953\&utm_medium=social\&utm_source=twitter)
 
 ### Ory Dockertest
@@ -179,7 +179,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 ### Ory Kratos
 
 * [Ory Kratos read-only traits](https://github.com/lus/kratos-readonly-traits) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2022-11-29
-* [Ory Kratos MCP server](https://github.com/feedback-loop-ai/mcp-ory-kratos) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-03
+* [Ory Kratos MCP server](https://github.com/feedback-loop-ai/mcp-ory-kratos) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-05
 * [Ory Kratos Symfony Authenticator](https://github.com/stethome/ory-auth-bundle) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2023-11-23
 * [Ory Kratos Loopback4 integration](https://github.com/giuseppegrieco/loopback4-kratos) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-25
 * [Ory Kratos Client Rust WASM](https://github.com/justins-engineering/kratos-client-rust) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2026-07-24
@@ -189,7 +189,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 * [Ory Hydra Terraform Provider](https://github.com/svrakitin/terraform-provider-hydra) ⭐ 23 | 🐛 6 | 🌐 Go | 📅 2024-12-11
 * [Ory Hydra OAuth2 Token Exchange RFC 8693](https://github.com/ApelegHQ/ts-hydra-rfc8693) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-12
 * [Ory Hydra Golang HTTP middleware](https://github.com/ngyewch/hydra-login-consent) ⭐ 7 | 🐛 1 | 🌐 Go | 📅 2026-06-08
-* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2026-09-03
+* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-05
 * [Ory Hydra ExpressJS OAuth2 Middleware for MCP Servers](https://github.com/jeffdyke/hydra-headless-ts) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26
 
 ### Ory Keto
@@ -231,4 +231,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
