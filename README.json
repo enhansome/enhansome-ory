@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4525,
+            "stars": 4526,
             "topics": [
               "automation",
               "ci",
@@ -89,7 +89,7 @@
                 "open_issues": 222,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13869,
+                "stars": 13871,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1038,7 +1038,7 @@
                 "id": 689195435,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-05T20:16:56Z",
+                "last_commit": "2026-09-08T03:29:29Z",
                 "open_issues": 0,
                 "owner": "ardetrick",
                 "repo": "testcontainers-ory-hydra",
@@ -1128,7 +1128,7 @@
                 "id": 611484700,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-02T02:57:40Z",
+                "last_commit": "2026-09-07T22:56:07Z",
                 "open_issues": 7,
                 "owner": "cerberauth",
                 "repo": "openapi-oathkeeper",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:07:34.511Z",
+    "last_updated": "2026-09-08T13:43:41.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
