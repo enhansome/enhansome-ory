@@ -48,7 +48,7 @@
             "open_issues": 62,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2616,
+            "stars": 2617,
             "topics": [
               "auth",
               "authentication",
@@ -121,7 +121,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.",
-                "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=hydra",
+                "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=oathkeeper",
                 "id": 104739489,
                 "language": "Go",
                 "license": "Apache-2.0",
@@ -129,7 +129,7 @@
                 "open_issues": 107,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3599,
+                "stars": 3600,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -848,7 +848,7 @@
                 "id": 1134247800,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T21:54:23Z",
+                "last_commit": "2026-09-12T08:13:04Z",
                 "open_issues": 7,
                 "owner": "feedback-loop-ai",
                 "repo": "mcp-ory-kratos",
@@ -1128,8 +1128,8 @@
                 "id": 611484700,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-09T20:43:45Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-12T01:02:16Z",
+                "open_issues": 7,
                 "owner": "cerberauth",
                 "repo": "openapi-oathkeeper",
                 "stars": 12,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:41:08.060Z",
+    "last_updated": "2026-09-12T12:57:18.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
