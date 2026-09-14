@@ -98,7 +98,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,872 | 🐛 223 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,876 | 🐛 223 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 * [How to write an application that integrates Kratos in Go](https://stories.abletech.nz/integrating-third-party-provider-kratos-f5514b53af66)
 
@@ -141,7 +141,7 @@ Code examples that show how to integrate Ory with a framework, software stack, o
 
 ### Ory Ecosystem
 
-* [Microservices app using Ory, NestJS, Kubernetes](https://github.com/getlarge/ticketing) ⭐ 128 | 🐛 10 | 🌐 TypeScript | 📅 2024-08-26
+* [Microservices app using Ory, NestJS, Kubernetes](https://github.com/getlarge/ticketing) ⭐ 127 | 🐛 10 | 🌐 TypeScript | 📅 2024-08-26
 * [Ory Kratos, Keto, Oathkeeper Kubernetes example](https://github.com/pngouin/k8s-ory-example) ⭐ 53 | 🐛 0 | 🌐 Shell | 📅 2022-04-18
 * [Next.js based starter for Ory Kratos and Ory Hydra](https://github.com/markusthielker/next-ory) ⚠️ Archived
 * [Selfhosted admin frontend in ASP.net](https://github.com/josxha/OryUI) ⚠️ Archived
@@ -203,7 +203,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 ### Ory Fosite
 
 * [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 1 | 🌐 Go | 📅 2026-09-11
-* [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-09-11
+* [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2026-09-14
 
 ## Services
 
@@ -231,4 +231,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
