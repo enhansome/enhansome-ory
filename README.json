@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4525,
+            "stars": 4524,
             "topics": [
               "automation",
               "ci",
@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 224,
+                "open_issues": 225,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13877,
+                "stars": 13878,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1128,7 +1128,7 @@
                 "id": 611484700,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-12T14:08:31Z",
+                "last_commit": "2026-09-15T18:14:36Z",
                 "open_issues": 6,
                 "owner": "cerberauth",
                 "repo": "openapi-oathkeeper",
@@ -1168,8 +1168,8 @@
                 "id": 92012686,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T00:12:47Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-15T20:34:04Z",
+                "open_issues": 2,
                 "owner": "matthewhartstonge",
                 "repo": "storage",
                 "stars": 20,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T14:23:08.142Z",
+    "last_updated": "2026-09-16T14:15:50.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",

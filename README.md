@@ -49,7 +49,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,525 | 🐛 13 | 🌐 Go | 📅 2026-07-17
+* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,524 | 🐛 13 | 🌐 Go | 📅 2026-07-17
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,618 | 🐛 62 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
@@ -98,7 +98,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,877 | 🐛 224 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,878 | 🐛 225 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 * [How to write an application that integrates Kratos in Go](https://stories.abletech.nz/integrating-third-party-provider-kratos-f5514b53af66)
 
@@ -198,11 +198,11 @@ Community projects, configuration tools, or development helpers extending Ory se
 
 ### Ory Oathkeeper
 
-* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 12 | 🐛 6 | 🌐 Go | 📅 2026-09-12
+* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 12 | 🐛 6 | 🌐 Go | 📅 2026-09-15
 
 ### Ory Fosite
 
-* [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 1 | 🌐 Go | 📅 2026-09-11
+* [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 2 | 🌐 Go | 📅 2026-09-15
 * [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-09-15
 
 ## Services
@@ -231,4 +231,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
