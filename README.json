@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4524,
+            "stars": 4525,
             "topics": [
               "automation",
               "ci",
@@ -48,7 +48,7 @@
             "open_issues": 62,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2618,
+            "stars": 2619,
             "topics": [
               "auth",
               "authentication",
@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 225,
+                "open_issues": 227,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13878,
+                "stars": 13879,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1225,11 +1225,11 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:15:50.271Z",
+    "last_updated": "2026-09-17T14:21:50.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
-      "homepage": "https://www.ory.sh/?utm_source=github&utm_medium=banner&utm_campaign=awesome-ory",
+      "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=awesome-ory",
       "id": 480431554,
       "language": "Dart",
       "license": "Apache-2.0",
