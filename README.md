@@ -50,7 +50,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 Overview of the main projects in the Ory ecosystem.
 
 * [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,527 | 🐛 14 | 🌐 Go | 📅 2026-07-17
-* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,619 | 🐛 63 | 🌐 Go | 📅 2025-11-20
+* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,620 | 🐛 63 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
 * [Ory Kratos](https://www.ory.com/kratos)
@@ -98,7 +98,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,894 | 🐛 231 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,893 | 🐛 232 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 * [How to write an application that integrates Kratos in Go](https://stories.abletech.nz/integrating-third-party-provider-kratos-f5514b53af66)
 
@@ -161,7 +161,7 @@ Code examples that show how to integrate Ory with a framework, software stack, o
 
 ### Ory Hydra
 
-* [Ory Hydra Java identity provider example](https://github.com/ardetrick/ory-hydra-refrence-java) ⭐ 14 | 🐛 1 | 🌐 Java | 📅 2026-09-03
+* [Ory Hydra Java identity provider example](https://github.com/ardetrick/ory-hydra-refrence-java) ⭐ 15 | 🐛 1 | 🌐 Java | 📅 2026-09-03
 * [Ory Hydra client integrations with OAuth2.0 & OIDC example](https://github.com/shauryadhadwal/oauth2-oidc-client-integrations) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-02
 * [Ory Hydra PKCE & Spring Boot 2 example](https://github.com/Chistousov/ORY-Hydra-OAuth2.0-Example) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2023-12-26
 * [Ory Hydra Golang identity provider example](https://github.com/M3ikShizuka/service-account) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2023-01-14
@@ -231,4 +231,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

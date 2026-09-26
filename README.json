@@ -48,7 +48,7 @@
             "open_issues": 63,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2619,
+            "stars": 2620,
             "topics": [
               "auth",
               "authentication",
@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 231,
+                "open_issues": 232,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13894,
+                "stars": 13893,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -572,7 +572,7 @@
                 "open_issues": 1,
                 "owner": "ardetrick",
                 "repo": "ory-hydra-refrence-java",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "gradle",
                   "java",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:39:54.812Z",
+    "last_updated": "2026-09-26T13:47:49.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
@@ -1233,7 +1233,7 @@
       "id": 480431554,
       "language": "Dart",
       "license": "Apache-2.0",
-      "last_commit": "2026-09-25T13:28:46Z",
+      "last_commit": "2026-09-25T19:05:33Z",
       "open_issues": 3,
       "owner": "ory",
       "repo": "awesome-ory",
