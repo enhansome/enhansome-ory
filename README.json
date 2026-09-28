@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4527,
+            "stars": 4526,
             "topics": [
               "automation",
               "ci",
@@ -89,7 +89,7 @@
                 "open_issues": 232,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13894,
+                "stars": 13895,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -129,7 +129,7 @@
                 "open_issues": 107,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3607,
+                "stars": 3608,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:46:01.785Z",
+    "last_updated": "2026-09-28T17:44:40.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
@@ -1237,7 +1237,7 @@
       "open_issues": 3,
       "owner": "ory",
       "repo": "awesome-ory",
-      "stars": 202,
+      "stars": 201,
       "topics": [
         "awesome",
         "awesome-list",
