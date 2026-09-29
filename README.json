@@ -48,7 +48,7 @@
             "open_issues": 63,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2622,
+            "stars": 2623,
             "topics": [
               "auth",
               "authentication",
@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 232,
+                "open_issues": 233,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13895,
+                "stars": 13896,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1038,8 +1038,8 @@
                 "id": 689195435,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-14T19:52:59Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-29T00:08:33Z",
+                "open_issues": 2,
                 "owner": "ardetrick",
                 "repo": "testcontainers-ory-hydra",
                 "stars": 4,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:44:40.429Z",
+    "last_updated": "2026-09-29T16:01:27.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
@@ -1237,7 +1237,7 @@
       "open_issues": 3,
       "owner": "ory",
       "repo": "awesome-ory",
-      "stars": 201,
+      "stars": 202,
       "topics": [
         "awesome",
         "awesome-list",
