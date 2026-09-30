@@ -15,11 +15,11 @@
             "id": 32550033,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-17T14:03:10Z",
+            "last_commit": "2026-09-30T11:00:02Z",
             "open_issues": 14,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4526,
+            "stars": 4527,
             "topics": [
               "automation",
               "ci",
@@ -89,7 +89,7 @@
                 "open_issues": 233,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13896,
+                "stars": 13899,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -129,7 +129,7 @@
                 "open_issues": 107,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3608,
+                "stars": 3609,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:01:27.197Z",
+    "last_updated": "2026-09-30T16:00:52.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
@@ -1233,7 +1233,7 @@
       "id": 480431554,
       "language": "Dart",
       "license": "Apache-2.0",
-      "last_commit": "2026-09-25T19:05:33Z",
+      "last_commit": "2026-09-30T15:19:10Z",
       "open_issues": 3,
       "owner": "ory",
       "repo": "awesome-ory",
@@ -1248,7 +1248,7 @@
         "ory-oathkeeper"
       ]
     },
-    "original_repository_sha": "8302a9f102715ab6cb5b172699aa5f8b7230901e",
+    "original_repository_sha": "b22838424abc190412dee491880b8c1aec9a01b3",
     "enhanced_repository": "enhansome/enhansome-ory",
     "enhanced_repository_description": null,
     "title": "Awesome Ory with stars"
