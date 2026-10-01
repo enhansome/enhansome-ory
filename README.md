@@ -7,7 +7,7 @@ An awesome list of the [Ory ecosystem](https://www.ory.com/ory-ecosystem). Ory p
 [![Docs](https://img.shields.io/badge/docs-ory.com-%233B4B6C "Ory Documentation")](https://ory.com/docs)
 [![Docs](https://img.shields.io/badge/chat-slack.ory.com-%234B1B6C "Ory Community Slack")](https://slack.ory.com/)
 
-If you have any questions or suggestions [open a discussion](https://github.com/ory/examples/discussions) ⭐ 202 | 🐛 3 | 🌐 Dart | 📅 2026-09-30, or join the [Ory Chat](https://slack.ory.com/)!
+If you have any questions or suggestions [open a discussion](https://github.com/ory/awesome-ory/discussions) ⭐ 202 | 🐛 2 | 🌐 Dart | 📅 2026-09-30, or join the [Ory Chat](https://slack.ory.com/)!
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
@@ -98,7 +98,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,899 | 🐛 233 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,900 | 🐛 233 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 * [How to write an application that integrates Kratos in Go](https://stories.abletech.nz/integrating-third-party-provider-kratos-f5514b53af66)
 
@@ -161,7 +161,7 @@ Code examples that show how to integrate Ory with a framework, software stack, o
 
 ### Ory Hydra
 
-* [Ory Hydra Java identity provider example](https://github.com/ardetrick/ory-hydra-refrence-java) ⭐ 15 | 🐛 1 | 🌐 Java | 📅 2026-09-03
+* [Ory Hydra Java identity provider example](https://github.com/ardetrick/ory-hydra-refrence-java) ⭐ 15 | 🐛 2 | 🌐 Java | 📅 2026-10-01
 * [Ory Hydra client integrations with OAuth2.0 & OIDC example](https://github.com/shauryadhadwal/oauth2-oidc-client-integrations) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-02
 * [Ory Hydra PKCE & Spring Boot 2 example](https://github.com/Chistousov/ORY-Hydra-OAuth2.0-Example) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2023-12-26
 * [Ory Hydra Golang identity provider example](https://github.com/M3ikShizuka/service-account) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2023-01-14
@@ -189,7 +189,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 * [Ory Hydra Terraform Provider](https://github.com/svrakitin/terraform-provider-hydra) ⭐ 23 | 🐛 6 | 🌐 Go | 📅 2024-12-11
 * [Ory Hydra OAuth2 Token Exchange RFC 8693](https://github.com/ApelegHQ/ts-hydra-rfc8693) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-12
 * [Ory Hydra Golang HTTP middleware](https://github.com/ngyewch/hydra-login-consent) ⭐ 7 | 🐛 1 | 🌐 Go | 📅 2026-06-08
-* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 2 | 🌐 Java | 📅 2026-09-29
+* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2026-10-01
 * [Ory Hydra ExpressJS OAuth2 Middleware for MCP Servers](https://github.com/jeffdyke/hydra-headless-ts) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09
 
 ### Ory Keto
@@ -231,4 +231,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

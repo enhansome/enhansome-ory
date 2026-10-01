@@ -89,7 +89,7 @@
                 "open_issues": 233,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13899,
+                "stars": 13900,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -568,8 +568,8 @@
                 "id": 565243062,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-09-03T01:14:09Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-01T13:13:41Z",
+                "open_issues": 2,
                 "owner": "ardetrick",
                 "repo": "ory-hydra-refrence-java",
                 "stars": 15,
@@ -1038,8 +1038,8 @@
                 "id": 689195435,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-29T00:08:33Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-01T10:26:32Z",
+                "open_issues": 1,
                 "owner": "ardetrick",
                 "repo": "testcontainers-ory-hydra",
                 "stars": 4,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:00:52.549Z",
+    "last_updated": "2026-10-01T16:34:51.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
@@ -1233,8 +1233,8 @@
       "id": 480431554,
       "language": "Dart",
       "license": "Apache-2.0",
-      "last_commit": "2026-09-30T15:19:10Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-30T16:30:12Z",
+      "open_issues": 2,
       "owner": "ory",
       "repo": "awesome-ory",
       "stars": 202,
@@ -1248,7 +1248,7 @@
         "ory-oathkeeper"
       ]
     },
-    "original_repository_sha": "b22838424abc190412dee491880b8c1aec9a01b3",
+    "original_repository_sha": "228a6529e7310c089a42ef3072c1359dab545e4f",
     "enhanced_repository": "enhansome/enhansome-ory",
     "enhanced_repository_description": null,
     "title": "Awesome Ory with stars"
