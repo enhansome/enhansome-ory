@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Ory Dockertest",
-          "description": null,
+          "description": "ory/dockertest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "Ory Fosite",
-          "description": null,
+          "description": "ory/fosite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -76,7 +76,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos reverse proxy (Nginx) example",
-              "description": null,
+              "description": "ory/kratos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -89,7 +89,7 @@
                 "open_issues": 233,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13903,
+                "stars": 13905,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -116,7 +116,7 @@
             {
               "node_type": "item",
               "title": "Ory Oathkeeper Istio best practices/reference configuration",
-              "description": null,
+              "description": "ory/oathkeeper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -159,7 +159,7 @@
             {
               "node_type": "item",
               "title": "Microservices app using Ory, NestJS, Kubernetes",
-              "description": null,
+              "description": "getlarge/ticketing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -192,7 +192,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos, Keto, Oathkeeper Kubernetes example",
-              "description": null,
+              "description": "pngouin/k8s-ory-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -225,7 +225,7 @@
             {
               "node_type": "item",
               "title": "Next.js based starter for Ory Kratos and Ory Hydra",
-              "description": null,
+              "description": "MarkusThielker/next-ory",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -255,7 +255,7 @@
             {
               "node_type": "item",
               "title": "Selfhosted admin frontend in ASP.net",
-              "description": null,
+              "description": "josxha/OryUI",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -290,7 +290,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos & Oathkeeper with Kong, docker-compose",
-              "description": null,
+              "description": "Pterygoidien/Kong-Ory-Microservices",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -318,7 +318,7 @@
             {
               "node_type": "item",
               "title": "APISIX as gateway with Ory, linkerd, and kustomize",
-              "description": null,
+              "description": "iverly/kube-apisix-linkerd-ory-kustomize",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -354,7 +354,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos Admin Interface in React example",
-              "description": null,
+              "description": "dfoxg/kratos-admin-ui",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -379,7 +379,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos Admin Interface with analytics",
-              "description": null,
+              "description": "dhia-gharsallaoui/kratos-admin-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -392,7 +392,7 @@
                 "open_issues": 10,
                 "owner": "dhia-gharsallaoui",
                 "repo": "kratos-admin-ui",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "identity-management",
                   "material-ui",
@@ -408,7 +408,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos Sveltekit with MeltUI and TailwindCSS example",
-              "description": null,
+              "description": "karlis-vagalis/kratos-selfservice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -435,7 +435,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos Svelte Node example",
-              "description": null,
+              "description": "emrahcom/kratos-selfservice-svelte-node",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -461,7 +461,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos Nuxt example",
-              "description": null,
+              "description": "khusseini/nuxt-kratos-selfservice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -485,7 +485,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos for Plug apps example",
-              "description": null,
+              "description": "ScoreVision/kratos_plug",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -510,7 +510,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos SvelteKit example",
-              "description": null,
+              "description": "bessey/ory-kratos-sveltekit-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -531,7 +531,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos SPA Self-service UI written in the Dioxus rust framework (WASM)",
-              "description": null,
+              "description": "justins-engineering/kratos-selfservice-wasm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -559,7 +559,7 @@
             {
               "node_type": "item",
               "title": "Ory Hydra Java identity provider example",
-              "description": null,
+              "description": "ardetrick/ory-hydra-refrence-java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -594,7 +594,7 @@
             {
               "node_type": "item",
               "title": "Ory Hydra client integrations with OAuth2.0 & OIDC example",
-              "description": null,
+              "description": "shauryadhadwal/oauth2-oidc-client-integrations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -624,7 +624,7 @@
             {
               "node_type": "item",
               "title": "Ory Hydra PKCE & Spring Boot 2 example",
-              "description": null,
+              "description": "Chistousov/ORY-Hydra-OAuth2.0-Example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -663,7 +663,7 @@
             {
               "node_type": "item",
               "title": "Ory Hydra Golang identity provider example",
-              "description": null,
+              "description": "M3ikShizuka/service-account",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -704,7 +704,7 @@
             {
               "node_type": "item",
               "title": "Ory Hydra Web3 Authentication incl. Metamask, Coinbase, Walletconnect example",
-              "description": null,
+              "description": "MetaWarrior-Army/mwa-auth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -750,7 +750,7 @@
             {
               "node_type": "item",
               "title": "Libraries to integrate NestJS with Ory",
-              "description": null,
+              "description": "getlarge/nestjs-ory-integration",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -781,7 +781,7 @@
             {
               "node_type": "item",
               "title": "Ory Plugin for HashiCorp Vault",
-              "description": null,
+              "description": "comnoco/vault-plugin-auth-ory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -818,7 +818,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos read-only traits",
-              "description": null,
+              "description": "lus/kratos-readonly-traits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -839,7 +839,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos MCP server",
-              "description": null,
+              "description": "feedback-loop-ai/mcp-ory-kratos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -860,7 +860,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos Symfony Authenticator",
-              "description": null,
+              "description": "stethome/ory-auth-bundle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -888,7 +888,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos Loopback4 integration",
-              "description": null,
+              "description": "giuseppegrieco/loopback4-kratos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -913,7 +913,7 @@
             {
               "node_type": "item",
               "title": "Ory Kratos Client Rust WASM",
-              "description": null,
+              "description": "justins-engineering/kratos-client-rust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -941,7 +941,7 @@
             {
               "node_type": "item",
               "title": "Ory Hydra Terraform Provider",
-              "description": null,
+              "description": "svrakitin/terraform-provider-hydra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -970,7 +970,7 @@
             {
               "node_type": "item",
               "title": "Ory Hydra OAuth2 Token Exchange RFC 8693",
-              "description": null,
+              "description": "ApelegHQ/ts-hydra-rfc8693",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1001,7 +1001,7 @@
             {
               "node_type": "item",
               "title": "Ory Hydra Golang HTTP middleware",
-              "description": null,
+              "description": "ngyewch/hydra-login-consent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1029,7 +1029,7 @@
             {
               "node_type": "item",
               "title": "Ory Hydra Testcontainer",
-              "description": null,
+              "description": "ardetrick/testcontainers-ory-hydra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1063,7 +1063,7 @@
             {
               "node_type": "item",
               "title": "Ory Hydra ExpressJS OAuth2 Middleware for MCP Servers",
-              "description": null,
+              "description": "jeffdyke/hydra-headless-ts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1091,7 +1091,7 @@
             {
               "node_type": "item",
               "title": "Ory Keto Terraform provider",
-              "description": null,
+              "description": "76creates/terraform-provider-oryketo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1119,7 +1119,7 @@
             {
               "node_type": "item",
               "title": "CLI to create Ory Oathkeeper rules from OpenAPI spec",
-              "description": null,
+              "description": "cerberauth/openapi-oathkeeper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1159,7 +1159,7 @@
             {
               "node_type": "item",
               "title": "MongoDB storage for Ory Fosite",
-              "description": null,
+              "description": "matthewhartstonge/storage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1189,7 +1189,7 @@
             {
               "node_type": "item",
               "title": "Argon2 Hasher for Ory Fosite",
-              "description": null,
+              "description": "matthewhartstonge/hasher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:54:35.404Z",
+    "last_updated": "2026-10-03T05:03:26.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
