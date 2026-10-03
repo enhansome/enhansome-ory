@@ -89,7 +89,7 @@
                 "open_issues": 233,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13905,
+                "stars": 13906,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -848,7 +848,7 @@
                 "id": 1134247800,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T08:13:13Z",
+                "last_commit": "2026-10-03T08:12:54Z",
                 "open_issues": 7,
                 "owner": "feedback-loop-ai",
                 "repo": "mcp-ory-kratos",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:03:26.873Z",
+    "last_updated": "2026-10-03T14:21:28.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",

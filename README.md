@@ -98,7 +98,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,905 | 🐛 233 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,906 | 🐛 233 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 * [How to write an application that integrates Kratos in Go](https://stories.abletech.nz/integrating-third-party-provider-kratos-f5514b53af66)
 
@@ -179,7 +179,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 ### Ory Kratos
 
 * [Ory Kratos read-only traits](https://github.com/lus/kratos-readonly-traits) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2022-11-29
-* [Ory Kratos MCP server](https://github.com/feedback-loop-ai/mcp-ory-kratos) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-19
+* [Ory Kratos MCP server](https://github.com/feedback-loop-ai/mcp-ory-kratos) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-03
 * [Ory Kratos Symfony Authenticator](https://github.com/stethome/ory-auth-bundle) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2023-11-23
 * [Ory Kratos Loopback4 integration](https://github.com/giuseppegrieco/loopback4-kratos) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-25
 * [Ory Kratos Client Rust WASM](https://github.com/justins-engineering/kratos-client-rust) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2026-07-24
