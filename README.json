@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T11:00:02Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "ory",
             "repo": "dockertest",
             "stars": 4527,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:53:42.647Z",
+    "last_updated": "2026-10-05T18:38:36.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
@@ -1237,7 +1237,7 @@
       "open_issues": 2,
       "owner": "ory",
       "repo": "awesome-ory",
-      "stars": 202,
+      "stars": 203,
       "topics": [
         "awesome",
         "awesome-list",
