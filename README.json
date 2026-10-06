@@ -89,7 +89,7 @@
                 "open_issues": 233,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13907,
+                "stars": 13908,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -126,7 +126,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-27T15:23:59Z",
-                "open_issues": 107,
+                "open_issues": 108,
                 "owner": "ory",
                 "repo": "oathkeeper",
                 "stars": 3608,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:38:36.733Z",
+    "last_updated": "2026-10-06T10:16:45.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
