@@ -15,8 +15,8 @@
             "id": 32550033,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T11:00:02Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-08T14:10:51Z",
+            "open_issues": 14,
             "owner": "ory",
             "repo": "dockertest",
             "stars": 4526,
@@ -48,7 +48,7 @@
             "open_issues": 63,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2625,
+            "stars": 2623,
             "topics": [
               "auth",
               "authentication",
@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 233,
+                "open_issues": 235,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13912,
+                "stars": 13911,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -129,7 +129,7 @@
                 "open_issues": 107,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3608,
+                "stars": 3609,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T16:43:19.938Z",
+    "last_updated": "2026-10-08T16:40:33.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
