@@ -48,7 +48,7 @@
             "open_issues": 63,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2624,
+            "stars": 2625,
             "topics": [
               "auth",
               "authentication",
@@ -89,7 +89,7 @@
                 "open_issues": 234,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13914,
+                "stars": 13915,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:28:51.826Z",
+    "last_updated": "2026-10-11T15:50:39.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
