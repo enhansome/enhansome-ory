@@ -15,11 +15,11 @@
             "id": 32550033,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T16:23:56Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-14T14:31:41Z",
+            "open_issues": 7,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4527,
+            "stars": 4528,
             "topics": [
               "automation",
               "ci",
@@ -89,7 +89,7 @@
                 "open_issues": 233,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13917,
+                "stars": 13921,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -129,7 +129,7 @@
                 "open_issues": 109,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3608,
+                "stars": 3609,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -983,7 +983,7 @@
                 "open_issues": 1,
                 "owner": "ApelegHQ",
                 "repo": "ts-hydra-rfc8693",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "authentication",
                   "iam",
@@ -1038,8 +1038,8 @@
                 "id": 689195435,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:59:48Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-14T13:58:31Z",
+                "open_issues": 2,
                 "owner": "ardetrick",
                 "repo": "testcontainers-ory-hydra",
                 "stars": 4,
@@ -1128,7 +1128,7 @@
                 "id": 611484700,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-07T09:27:47Z",
+                "last_commit": "2026-10-13T17:34:20Z",
                 "open_issues": 6,
                 "owner": "cerberauth",
                 "repo": "openapi-oathkeeper",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:02:22.996Z",
+    "last_updated": "2026-10-14T14:35:16.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
