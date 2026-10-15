@@ -49,7 +49,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,528 | 🐛 7 | 🌐 Go | 📅 2026-10-14
+* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,530 | 🐛 7 | 🌐 Go | 📅 2026-10-15
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,627 | 🐛 63 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
@@ -85,22 +85,22 @@ Developer resources and forums for discussing Ory and meeting other users
 > Do you want to share your knowledge and experience?
 > [Reach out](mailto:office@ory.com) to get published in the Ory blog!
 
-* [Deploying Ory Oathkeeper as an AWS Lambda Authorizer](https://www.ory.com/deploying-ory-oathkeeper-aws-lambda/)
-* [Using Ory with Cloudflare Workers](https://www.ory.com/use-ory-with-cloudflare-workers/)
-* [How I built LoginWithHN using Ory Hydra](https://www.ory.com/how-to-build-login-with-hacker-news/)
-* [Add Authentication to your Flutter Web Applications with Ory Kratos](https://www.ory.com/login-flutter-authentication-example-api-open-source/)
-* [Looking at Zanzibar through Ory Keto](https://www.ory.com/looking-at-keto/)
+* [Deploying Ory Oathkeeper as an AWS Lambda Authorizer](https://www.ory.com/blog/deploying-ory-oathkeeper-aws-lambda)
+* [Using Ory with Cloudflare Workers](https://www.ory.com/blog/use-ory-with-cloudflare-workers)
+* [How I built LoginWithHN using Ory Hydra](https://www.ory.com/blog/how-to-build-login-with-hacker-news)
+* [Add Authentication to your Flutter Web Applications with Ory Kratos](https://www.ory.com/blog/login-flutter-authentication-example-api-open-source)
+* [Looking at Zanzibar through Ory Keto](https://www.ory.com/blog/looking-at-keto)
 
 ### Ory ecosystem
 
+* [Single Sign-On for Four Rails Apps: Self-Hosted Ory With Docker Compose](https://www.panasiti.me/blog/rails-sso-self-hosted-ory/)
 * [Authentication Infrastructure – Using Ory Stack (Ory Kratos, Ory Hydra)](https://neutronxinnovation.com/blog/2025/01/23/authentication-infrastructure-using-ory-stack/)
 * [Open Source Authentication with Hydra and Kratos](https://blog.px.dev/open-source-auth/)
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,921 | 🐛 233 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,922 | 🐛 233 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
-* [How to write an application that integrates Kratos in Go](https://stories.abletech.nz/integrating-third-party-provider-kratos-f5514b53af66)
 
 ### Ory Hydra
 
@@ -119,15 +119,13 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Oathkeepeer
 
-* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,609 | 🐛 109 | 🌐 Go | 📅 2026-07-27
-* [API Access Control with Ambassador and Ory Oathkeeper](https://blog.getambassador.io/part-2-api-access-control-and-authentication-with-kubernetes-ambassador-and-ory-oathkeeper-q-a-127fa57f6332?utm_content=76739953\&utm_medium=social\&utm_source=twitter)
+* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,608 | 🐛 109 | 🌐 Go | 📅 2026-07-27
 
 ### Ory Dockertest
 
-* [Writing Tests for MongoDB using Dockertest in Go](https://mainawycliffe.dev/blog/using-dockertest-to-write-integration-tests-against-mongodb/)
+* [Writing Tests for MongoDB using Dockertest in Go](https://dev.to/this-is-learning/writing-tests-for-mongodb-using-dockertest-in-go-56hm)
 * [Integration tests in Golang with dockertest](https://sergiocarracedo.es/integration-tests-in-golang-with-dockertest/)
 * [Go Package for better integration tests: Ory Dockertest](https://mariocarrion.com/2021/03/14/golang-package-testing-datastores-ory-dockertest.html)
-* [Using Dockertest with Golang](https://bignerdranch.com/blog/using-dockertest-with-golang/)
 * [How to write a Go API Part 3: Testing With Dockertest](https://jonnylangefeld.com/blog/how-to-write-a-go-api-part-3-testing-with-dockertest)
 
 ## Videos
@@ -189,7 +187,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 * [Ory Hydra Terraform Provider](https://github.com/svrakitin/terraform-provider-hydra) ⭐ 23 | 🐛 6 | 🌐 Go | 📅 2024-12-11
 * [Ory Hydra OAuth2 Token Exchange RFC 8693](https://github.com/ApelegHQ/ts-hydra-rfc8693) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-12
 * [Ory Hydra Golang HTTP middleware](https://github.com/ngyewch/hydra-login-consent) ⭐ 7 | 🐛 1 | 🌐 Go | 📅 2026-06-08
-* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 2 | 🌐 Java | 📅 2026-10-14
+* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2026-10-15
 * [Ory Hydra ExpressJS OAuth2 Middleware for MCP Servers](https://github.com/jeffdyke/hydra-headless-ts) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09
 
 ### Ory Keto
@@ -203,7 +201,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 ### Ory Fosite
 
 * [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 1 | 🌐 Go | 📅 2026-09-18
-* [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-09-18
+* [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-10-14
 
 ## Services
 
@@ -231,4 +229,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

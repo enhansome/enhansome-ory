@@ -15,11 +15,11 @@
             "id": 32550033,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T14:31:41Z",
+            "last_commit": "2026-10-15T12:03:35Z",
             "open_issues": 7,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4528,
+            "stars": 4530,
             "topics": [
               "automation",
               "ci",
@@ -89,7 +89,7 @@
                 "open_issues": 233,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13921,
+                "stars": 13922,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -129,7 +129,7 @@
                 "open_issues": 109,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3609,
+                "stars": 3608,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -1038,8 +1038,8 @@
                 "id": 689195435,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-14T13:58:31Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-15T01:31:46Z",
+                "open_issues": 1,
                 "owner": "ardetrick",
                 "repo": "testcontainers-ory-hydra",
                 "stars": 4,
@@ -1198,7 +1198,7 @@
                 "id": 91993042,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T08:39:58Z",
+                "last_commit": "2026-10-14T22:03:06Z",
                 "open_issues": 0,
                 "owner": "matthewhartstonge",
                 "repo": "hasher",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:35:16.400Z",
+    "last_updated": "2026-10-15T14:15:55.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
@@ -1233,7 +1233,7 @@
       "id": 480431554,
       "language": "Dart",
       "license": "Apache-2.0",
-      "last_commit": "2026-09-30T16:30:12Z",
+      "last_commit": "2026-10-14T16:15:35Z",
       "open_issues": 2,
       "owner": "ory",
       "repo": "awesome-ory",
@@ -1248,7 +1248,7 @@
         "ory-oathkeeper"
       ]
     },
-    "original_repository_sha": "228a6529e7310c089a42ef3072c1359dab545e4f",
+    "original_repository_sha": "6c0c61f6e5af5ba5f0d55ac50625f3d0cad9ff97",
     "enhanced_repository": "enhansome/enhansome-ory",
     "enhanced_repository_description": null,
     "title": "Awesome Ory with stars"
