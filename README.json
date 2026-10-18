@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4530,
+            "stars": 4529,
             "topics": [
               "automation",
               "ci",
@@ -48,7 +48,7 @@
             "open_issues": 63,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2628,
+            "stars": 2627,
             "topics": [
               "auth",
               "authentication",
@@ -86,7 +86,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 233,
+                "open_issues": 234,
                 "owner": "ory",
                 "repo": "kratos",
                 "stars": 13923,
@@ -1128,7 +1128,7 @@
                 "id": 611484700,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-17T05:37:36Z",
+                "last_commit": "2026-10-18T09:47:11Z",
                 "open_issues": 6,
                 "owner": "cerberauth",
                 "repo": "openapi-oathkeeper",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:04:10.957Z",
+    "last_updated": "2026-10-18T13:23:49.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
