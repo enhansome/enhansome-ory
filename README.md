@@ -49,7 +49,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,527 | 🐛 9 | 🌐 Go | 📅 2026-10-19
+* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,527 | 🐛 10 | 🌐 Go | 📅 2026-10-23
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,628 | 🐛 63 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
@@ -99,7 +99,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,931 | 🐛 236 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,935 | 🐛 236 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 
 ### Ory Hydra
@@ -200,7 +200,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 
 ### Ory Fosite
 
-* [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 2 | 🌐 Go | 📅 2026-10-20
+* [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 2 | 🌐 Go | 📅 2026-10-23
 * [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-10-20
 
 ## Services
@@ -229,4 +229,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
