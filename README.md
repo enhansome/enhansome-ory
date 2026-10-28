@@ -99,7 +99,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,941 | 🐛 236 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,945 | 🐛 234 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 
 ### Ory Hydra
@@ -119,7 +119,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Oathkeepeer
 
-* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,606 | 🐛 107 | 🌐 Go | 📅 2026-07-27
+* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,607 | 🐛 107 | 🌐 Go | 📅 2026-07-27
 
 ### Ory Dockertest
 
@@ -229,4 +229,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
