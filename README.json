@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4528,
+            "stars": 4530,
             "topics": [
               "automation",
               "ci",
@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 235,
+                "open_issues": 236,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13947,
+                "stars": 13946,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -126,7 +126,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-27T15:23:59Z",
-                "open_issues": 107,
+                "open_issues": 108,
                 "owner": "ory",
                 "repo": "oathkeeper",
                 "stars": 3607,
@@ -392,7 +392,7 @@
                 "open_issues": 10,
                 "owner": "dhia-gharsallaoui",
                 "repo": "kratos-admin-ui",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "identity-management",
                   "material-ui",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:17:16.122Z",
+    "last_updated": "2026-10-30T16:05:37.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",

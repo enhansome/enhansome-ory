@@ -49,7 +49,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,528 | 🐛 10 | 🌐 Go | 📅 2026-10-23
+* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,530 | 🐛 10 | 🌐 Go | 📅 2026-10-23
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,630 | 🐛 60 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
@@ -99,7 +99,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,947 | 🐛 235 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,946 | 🐛 236 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 
 ### Ory Hydra
@@ -119,7 +119,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Oathkeepeer
 
-* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,607 | 🐛 107 | 🌐 Go | 📅 2026-07-27
+* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,607 | 🐛 108 | 🌐 Go | 📅 2026-07-27
 
 ### Ory Dockertest
 
@@ -149,7 +149,7 @@ Code examples that show how to integrate Ory with a framework, software stack, o
 ### Ory Kratos
 
 * [Ory Kratos Admin Interface in React example](https://github.com/dfoxg/kratos-admin-ui) ⚠️ Archived
-* [Ory Kratos Admin Interface with analytics](https://github.com/dhia-gharsallaoui/kratos-admin-ui) ⭐ 68 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24
+* [Ory Kratos Admin Interface with analytics](https://github.com/dhia-gharsallaoui/kratos-admin-ui) ⭐ 69 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24
 * [Ory Kratos Sveltekit with MeltUI and TailwindCSS example](https://github.com/karlis-vagalis/kratos-selfservice) ⭐ 33 | 🐛 1 | 🌐 Svelte | 📅 2025-01-09
 * [Ory Kratos Svelte Node example](https://github.com/emrahcom/kratos-selfservice-svelte-node) ⭐ 28 | 🐛 1 | 🌐 Svelte | 📅 2023-09-25
 * [Ory Kratos Nuxt example](https://github.com/khusseini/nuxt-kratos-selfservice) ⭐ 7 | 🐛 0 | 🌐 Vue | 📅 2024-10-10
@@ -229,4 +229,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
