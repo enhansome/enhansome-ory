@@ -50,7 +50,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 Overview of the main projects in the Ory ecosystem.
 
 * [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,530 | 🐛 10 | 🌐 Go | 📅 2026-10-23
-* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,630 | 🐛 60 | 🌐 Go | 📅 2025-11-20
+* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,631 | 🐛 60 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
 * [Ory Kratos](https://www.ory.com/kratos)
@@ -99,7 +99,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,946 | 🐛 236 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,947 | 🐛 237 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 
 ### Ory Hydra
@@ -119,7 +119,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Oathkeepeer
 
-* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,607 | 🐛 108 | 🌐 Go | 📅 2026-07-27
+* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,606 | 🐛 108 | 🌐 Go | 📅 2026-07-27
 
 ### Ory Dockertest
 
@@ -177,7 +177,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 ### Ory Kratos
 
 * [Ory Kratos read-only traits](https://github.com/lus/kratos-readonly-traits) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2022-11-29
-* [Ory Kratos MCP server](https://github.com/feedback-loop-ai/mcp-ory-kratos) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-03
+* [Ory Kratos MCP server](https://github.com/feedback-loop-ai/mcp-ory-kratos) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-31
 * [Ory Kratos Symfony Authenticator](https://github.com/stethome/ory-auth-bundle) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2023-11-23
 * [Ory Kratos Loopback4 integration](https://github.com/giuseppegrieco/loopback4-kratos) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-25
 * [Ory Kratos Client Rust WASM](https://github.com/justins-engineering/kratos-client-rust) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2026-07-24
@@ -229,4 +229,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
