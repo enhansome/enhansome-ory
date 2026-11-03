@@ -49,7 +49,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,531 | 🐛 22 | 🌐 Go | 📅 2026-10-23
+* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,530 | 🐛 22 | 🌐 Go | 📅 2026-10-23
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,631 | 🐛 61 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
@@ -119,7 +119,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Oathkeepeer
 
-* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,607 | 🐛 108 | 🌐 Go | 📅 2026-07-27
+* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,608 | 🐛 109 | 🌐 Go | 📅 2026-07-27
 
 ### Ory Dockertest
 
@@ -159,7 +159,7 @@ Code examples that show how to integrate Ory with a framework, software stack, o
 
 ### Ory Hydra
 
-* [Ory Hydra Java identity provider example](https://github.com/ardetrick/ory-hydra-refrence-java) ⭐ 15 | 🐛 4 | 🌐 Java | 📅 2026-11-01
+* [Ory Hydra Java identity provider example](https://github.com/ardetrick/ory-hydra-refrence-java) ⭐ 15 | 🐛 2 | 🌐 Java | 📅 2026-11-03
 * [Ory Hydra client integrations with OAuth2.0 & OIDC example](https://github.com/shauryadhadwal/oauth2-oidc-client-integrations) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-02
 * [Ory Hydra PKCE & Spring Boot 2 example](https://github.com/Chistousov/ORY-Hydra-OAuth2.0-Example) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2023-12-26
 * [Ory Hydra Golang identity provider example](https://github.com/M3ikShizuka/service-account) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2023-01-14
@@ -187,7 +187,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 * [Ory Hydra Terraform Provider](https://github.com/svrakitin/terraform-provider-hydra) ⭐ 23 | 🐛 6 | 🌐 Go | 📅 2024-12-11
 * [Ory Hydra OAuth2 Token Exchange RFC 8693](https://github.com/ApelegHQ/ts-hydra-rfc8693) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-12
 * [Ory Hydra Golang HTTP middleware](https://github.com/ngyewch/hydra-login-consent) ⭐ 7 | 🐛 1 | 🌐 Go | 📅 2026-06-08
-* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2026-10-27
+* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2026-11-03
 * [Ory Hydra ExpressJS OAuth2 Middleware for MCP Servers](https://github.com/jeffdyke/hydra-headless-ts) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09
 
 ### Ory Keto
@@ -196,7 +196,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 
 ### Ory Oathkeeper
 
-* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 12 | 🐛 9 | 🌐 Go | 📅 2026-11-01
+* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 12 | 🐛 9 | 🌐 Go | 📅 2026-11-02
 
 ### Ory Fosite
 
@@ -229,4 +229,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
