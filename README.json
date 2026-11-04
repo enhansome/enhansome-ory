@@ -89,7 +89,7 @@
                 "open_issues": 238,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13950,
+                "stars": 13948,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -129,7 +129,7 @@
                 "open_issues": 109,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3608,
+                "stars": 3609,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T17:11:23.597Z",
+    "last_updated": "2026-11-04T17:22:50.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
