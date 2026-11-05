@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4530,
+            "stars": 4531,
             "topics": [
               "automation",
               "ci",
@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 238,
+                "open_issues": 239,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13948,
+                "stars": 13947,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -129,7 +129,7 @@
                 "open_issues": 109,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3609,
+                "stars": 3610,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -951,7 +951,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2024-12-11T23:21:03Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "svrakitin",
                 "repo": "terraform-provider-hydra",
                 "stars": 23,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:22:50.039Z",
+    "last_updated": "2026-11-05T17:29:56.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
