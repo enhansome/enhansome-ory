@@ -50,7 +50,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 Overview of the main projects in the Ory ecosystem.
 
 * [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,531 | 🐛 22 | 🌐 Go | 📅 2026-10-23
-* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,631 | 🐛 61 | 🌐 Go | 📅 2025-11-20
+* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,632 | 🐛 61 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
 * [Ory Kratos](https://www.ory.com/kratos)
@@ -119,7 +119,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Oathkeepeer
 
-* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,610 | 🐛 109 | 🌐 Go | 📅 2026-07-27
+* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,611 | 🐛 109 | 🌐 Go | 📅 2026-07-27
 
 ### Ory Dockertest
 
@@ -229,4 +229,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
