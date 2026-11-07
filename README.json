@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 239,
+                "open_issues": 240,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13947,
+                "stars": 13948,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -443,8 +443,8 @@
                 "homepage": null,
                 "id": 401271122,
                 "language": "Svelte",
-                "license": null,
-                "last_commit": "2023-09-25T15:04:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-07T07:32:49Z",
                 "open_issues": 1,
                 "owner": "emrahcom",
                 "repo": "kratos-selfservice-svelte-node",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:51:21.316Z",
+    "last_updated": "2026-11-07T15:48:39.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
