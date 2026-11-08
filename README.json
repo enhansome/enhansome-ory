@@ -48,7 +48,7 @@
             "open_issues": 61,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2632,
+            "stars": 2633,
             "topics": [
               "auth",
               "authentication",
@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 240,
+                "open_issues": 239,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13948,
+                "stars": 13950,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1128,7 +1128,7 @@
                 "id": 611484700,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-02T23:27:35Z",
+                "last_commit": "2026-11-08T01:54:16Z",
                 "open_issues": 9,
                 "owner": "cerberauth",
                 "repo": "openapi-oathkeeper",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:48:39.039Z",
+    "last_updated": "2026-11-08T16:07:39.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
