@@ -99,7 +99,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,950 | 🐛 239 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,951 | 🐛 239 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 
 ### Ory Hydra
@@ -187,7 +187,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 * [Ory Hydra Terraform Provider](https://github.com/svrakitin/terraform-provider-hydra) ⭐ 23 | 🐛 5 | 🌐 Go | 📅 2024-12-11
 * [Ory Hydra OAuth2 Token Exchange RFC 8693](https://github.com/ApelegHQ/ts-hydra-rfc8693) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-12
 * [Ory Hydra Golang HTTP middleware](https://github.com/ngyewch/hydra-login-consent) ⭐ 7 | 🐛 1 | 🌐 Go | 📅 2026-06-08
-* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2026-11-03
+* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 4 | 🌐 Java | 📅 2026-11-09
 * [Ory Hydra ExpressJS OAuth2 Middleware for MCP Servers](https://github.com/jeffdyke/hydra-headless-ts) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09
 
 ### Ory Keto
@@ -196,7 +196,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 
 ### Ory Oathkeeper
 
-* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 12 | 🐛 9 | 🌐 Go | 📅 2026-11-08
+* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 12 | 🐛 7 | 🌐 Go | 📅 2026-11-08
 
 ### Ory Fosite
 
@@ -229,4 +229,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
