@@ -15,8 +15,8 @@
             "id": 32550033,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T14:02:37Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-11T13:55:07Z",
+            "open_issues": 20,
             "owner": "ory",
             "repo": "dockertest",
             "stars": 4531,
@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 240,
+                "open_issues": 242,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13950,
+                "stars": 13955,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1168,8 +1168,8 @@
                 "id": 92012686,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T18:48:53Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-10T20:33:43Z",
+                "open_issues": 2,
                 "owner": "matthewhartstonge",
                 "repo": "storage",
                 "stars": 20,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:10:27.501Z",
+    "last_updated": "2026-11-11T17:18:42.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
