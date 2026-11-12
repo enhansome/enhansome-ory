@@ -89,7 +89,7 @@
                 "open_issues": 242,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13955,
+                "stars": 13956,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -568,8 +568,8 @@
                 "id": 565243062,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-11-03T11:15:01Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-12T02:13:21Z",
+                "open_issues": 1,
                 "owner": "ardetrick",
                 "repo": "ory-hydra-refrence-java",
                 "stars": 15,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:18:42.986Z",
+    "last_updated": "2026-11-12T17:39:52.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",

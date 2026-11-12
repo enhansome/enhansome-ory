@@ -99,7 +99,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,955 | 🐛 242 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,956 | 🐛 242 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 
 ### Ory Hydra
@@ -159,7 +159,7 @@ Code examples that show how to integrate Ory with a framework, software stack, o
 
 ### Ory Hydra
 
-* [Ory Hydra Java identity provider example](https://github.com/ardetrick/ory-hydra-refrence-java) ⭐ 15 | 🐛 2 | 🌐 Java | 📅 2026-11-03
+* [Ory Hydra Java identity provider example](https://github.com/ardetrick/ory-hydra-refrence-java) ⭐ 15 | 🐛 1 | 🌐 Java | 📅 2026-11-12
 * [Ory Hydra client integrations with OAuth2.0 & OIDC example](https://github.com/shauryadhadwal/oauth2-oidc-client-integrations) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-02
 * [Ory Hydra PKCE & Spring Boot 2 example](https://github.com/Chistousov/ORY-Hydra-OAuth2.0-Example) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2023-12-26
 * [Ory Hydra Golang identity provider example](https://github.com/M3ikShizuka/service-account) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2023-01-14
@@ -229,4 +229,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
