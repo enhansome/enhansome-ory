@@ -15,11 +15,11 @@
             "id": 32550033,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T13:55:07Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-13T14:03:05Z",
+            "open_issues": 24,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4531,
+            "stars": 4530,
             "topics": [
               "automation",
               "ci",
@@ -48,7 +48,7 @@
             "open_issues": 61,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2633,
+            "stars": 2632,
             "topics": [
               "auth",
               "authentication",
@@ -86,7 +86,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 242,
+                "open_issues": 241,
                 "owner": "ory",
                 "repo": "kratos",
                 "stars": 13956,
@@ -922,7 +922,7 @@
                 "id": 1016183696,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-24T14:55:49Z",
+                "last_commit": "2026-11-12T22:55:56Z",
                 "open_issues": 0,
                 "owner": "justins-engineering",
                 "repo": "kratos-client-rust",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T17:39:52.913Z",
+    "last_updated": "2026-11-13T17:17:25.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
