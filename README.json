@@ -89,7 +89,7 @@
                 "open_issues": 241,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13956,
+                "stars": 13958,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1168,8 +1168,8 @@
                 "id": 92012686,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T20:33:43Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-14T04:06:43Z",
+                "open_issues": 4,
                 "owner": "matthewhartstonge",
                 "repo": "storage",
                 "stars": 20,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:17:25.040Z",
+    "last_updated": "2026-11-14T15:54:25.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
