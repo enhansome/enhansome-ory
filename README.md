@@ -49,7 +49,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,530 | 🐛 24 | 🌐 Go | 📅 2026-11-13
+* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,529 | 🐛 24 | 🌐 Go | 📅 2026-11-13
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,634 | 🐛 61 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
@@ -99,7 +99,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,960 | 🐛 240 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,958 | 🐛 242 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 
 ### Ory Hydra
@@ -139,7 +139,7 @@ Code examples that show how to integrate Ory with a framework, software stack, o
 
 ### Ory Ecosystem
 
-* [Microservices app using Ory, NestJS, Kubernetes](https://github.com/getlarge/ticketing) ⭐ 127 | 🐛 10 | 🌐 TypeScript | 📅 2024-08-26
+* [Microservices app using Ory, NestJS, Kubernetes](https://github.com/getlarge/ticketing) ⭐ 126 | 🐛 10 | 🌐 TypeScript | 📅 2024-08-26
 * [Ory Kratos, Keto, Oathkeeper Kubernetes example](https://github.com/pngouin/k8s-ory-example) ⭐ 53 | 🐛 0 | 🌐 Shell | 📅 2022-04-18
 * [Next.js based starter for Ory Kratos and Ory Hydra](https://github.com/markusthielker/next-ory) ⚠️ Archived
 * [Selfhosted admin frontend in ASP.net](https://github.com/josxha/OryUI) ⚠️ Archived
@@ -196,7 +196,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 
 ### Ory Oathkeeper
 
-* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 12 | 🐛 8 | 🌐 Go | 📅 2026-11-15
+* [CLI to create Ory Oathkeeper rules from OpenAPI spec](https://github.com/cerberauth/openapi-oathkeeper) ⭐ 12 | 🐛 8 | 🌐 Go | 📅 2026-11-16
 
 ### Ory Fosite
 
@@ -229,4 +229,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
