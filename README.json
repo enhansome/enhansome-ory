@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 242,
+                "open_issues": 243,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13959,
+                "stars": 13958,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:41:13.995Z",
+    "last_updated": "2026-11-18T18:15:52.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
