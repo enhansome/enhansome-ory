@@ -89,7 +89,7 @@
                 "open_issues": 243,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13958,
+                "stars": 13963,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:15:52.514Z",
+    "last_updated": "2026-11-19T18:25:35.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
