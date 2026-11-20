@@ -49,8 +49,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,528 | 🐛 24 | 🌐 Go | 📅 2026-11-13
-* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,635 | 🐛 61 | 🌐 Go | 📅 2025-11-20
+* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,527 | 🐛 26 | 🌐 Go | 📅 2026-11-20
+* [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,634 | 🐛 63 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
 * [Ory Kratos](https://www.ory.com/kratos)
@@ -99,7 +99,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,963 | 🐛 243 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,962 | 🐛 244 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 
 ### Ory Hydra
@@ -119,7 +119,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Oathkeepeer
 
-* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,611 | 🐛 109 | 🌐 Go | 📅 2026-07-27
+* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,610 | 🐛 109 | 🌐 Go | 📅 2026-07-27
 
 ### Ory Dockertest
 
@@ -144,18 +144,18 @@ Code examples that show how to integrate Ory with a framework, software stack, o
 * [Next.js based starter for Ory Kratos and Ory Hydra](https://github.com/markusthielker/next-ory) ⚠️ Archived
 * [Selfhosted admin frontend in ASP.net](https://github.com/josxha/OryUI) ⚠️ Archived
 * [Ory Kratos & Oathkeeper with Kong, docker-compose](https://github.com/Pterygoidien/Kong-Ory-Microservices) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2023-11-24
-* [APISIX as gateway with Ory, linkerd, and kustomize](https://github.com/iverly/kube-apisix-linkerd-ory-kustomize) ⭐ 1 | 🐛 0 | 🌐 HCL | 📅 2024-01-02
+* [APISIX as gateway with Ory, linkerd, and kustomize](https://github.com/iverly/kube-apisix-linkerd-ory-kustomize) ⭐ 0 | 🐛 0 | 🌐 HCL | 📅 2024-01-02
 
 ### Ory Kratos
 
 * [Ory Kratos Admin Interface in React example](https://github.com/dfoxg/kratos-admin-ui) ⚠️ Archived
-* [Ory Kratos Admin Interface with analytics](https://github.com/dhia-gharsallaoui/kratos-admin-ui) ⭐ 69 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24
-* [Ory Kratos Sveltekit with MeltUI and TailwindCSS example](https://github.com/karlis-vagalis/kratos-selfservice) ⭐ 33 | 🐛 1 | 🌐 Svelte | 📅 2025-01-09
+* [Ory Kratos Admin Interface with analytics](https://github.com/dhia-gharsallaoui/kratos-admin-ui) ⭐ 68 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24
+* [Ory Kratos Sveltekit with MeltUI and TailwindCSS example](https://github.com/karlis-vagalis/kratos-selfservice) ⭐ 32 | 🐛 1 | 🌐 Svelte | 📅 2025-01-09
 * [Ory Kratos Svelte Node example](https://github.com/emrahcom/kratos-selfservice-svelte-node) ⭐ 28 | 🐛 1 | 🌐 Svelte | 📅 2026-11-07
 * [Ory Kratos Nuxt example](https://github.com/khusseini/nuxt-kratos-selfservice) ⭐ 7 | 🐛 0 | 🌐 Vue | 📅 2024-10-10
 * [Ory Kratos for Plug apps example](https://github.com/ScoreVision/kratos_plug) ⭐ 7 | 🐛 1 | 🌐 Elixir | 📅 2023-06-13
 * [Ory Kratos SvelteKit example](https://github.com/bessey/ory-kratos-sveltekit-demo) ⭐ 7 | 🐛 0 | 🌐 Svelte | 📅 2024-04-29
-* [Ory Kratos SPA Self-service UI written in the Dioxus rust framework (WASM)](https://github.com/justins-engineering/kratos-selfservice-wasm) ⭐ 2 | 🐛 4 | 🌐 Rust | 📅 2026-04-24
+* [Ory Kratos SPA Self-service UI written in the Dioxus rust framework (WASM)](https://github.com/justins-engineering/kratos-selfservice-wasm) ⭐ 1 | 🐛 4 | 🌐 Rust | 📅 2026-04-24
 
 ### Ory Hydra
 
@@ -172,7 +172,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 ### Ory Ecosystem
 
 * [Libraries to integrate NestJS with Ory](https://github.com/getlarge/nestjs-ory-integration) ⭐ 20 | 🐛 15 | 🌐 TypeScript | 📅 2025-06-02
-* [Ory Plugin for HashiCorp Vault](https://github.com/comnoco/vault-plugin-auth-ory) ⭐ 10 | 🐛 3 | 🌐 Go | 📅 2026-01-17
+* [Ory Plugin for HashiCorp Vault](https://github.com/comnoco/vault-plugin-auth-ory) ⭐ 9 | 🐛 3 | 🌐 Go | 📅 2026-01-17
 
 ### Ory Kratos
 
@@ -229,4 +229,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

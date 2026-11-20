@@ -15,11 +15,11 @@
             "id": 32550033,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T14:03:05Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-20T14:02:34Z",
+            "open_issues": 26,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4528,
+            "stars": 4527,
             "topics": [
               "automation",
               "ci",
@@ -45,10 +45,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2025-11-20T01:13:40Z",
-            "open_issues": 61,
+            "open_issues": 63,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2635,
+            "stars": 2634,
             "topics": [
               "auth",
               "authentication",
@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 243,
+                "open_issues": 244,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13963,
+                "stars": 13962,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -129,7 +129,7 @@
                 "open_issues": 109,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3611,
+                "stars": 3610,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -238,7 +238,7 @@
                 "open_issues": 4,
                 "owner": "MarkusThielker",
                 "repo": "next-ory",
-                "stars": 47,
+                "stars": 46,
                 "topics": [
                   "docker",
                   "nextjs",
@@ -331,7 +331,7 @@
                 "open_issues": 0,
                 "owner": "iverly",
                 "repo": "kube-apisix-linkerd-ory-kustomize",
-                "stars": 1,
+                "stars": 0,
                 "topics": [
                   "apisix",
                   "gitops",
@@ -367,7 +367,7 @@
                 "open_issues": 9,
                 "owner": "dfoxg",
                 "repo": "kratos-admin-ui",
-                "stars": 195,
+                "stars": 194,
                 "topics": [
                   "admin-dashboard",
                   "kratos",
@@ -392,7 +392,7 @@
                 "open_issues": 10,
                 "owner": "dhia-gharsallaoui",
                 "repo": "kratos-admin-ui",
-                "stars": 69,
+                "stars": 68,
                 "topics": [
                   "identity-management",
                   "material-ui",
@@ -421,7 +421,7 @@
                 "open_issues": 1,
                 "owner": "karlis-vagalis",
                 "repo": "kratos-selfservice",
-                "stars": 33,
+                "stars": 32,
                 "topics": [
                   "melt-ui",
                   "ory",
@@ -544,7 +544,7 @@
                 "open_issues": 4,
                 "owner": "justins-engineering",
                 "repo": "kratos-selfservice-wasm",
-                "stars": 2,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:45.429Z"
@@ -794,7 +794,7 @@
                 "open_issues": 3,
                 "owner": "comnoco",
                 "repo": "vault-plugin-auth-ory",
-                "stars": 10,
+                "stars": 9,
                 "topics": [
                   "comnoco",
                   "hashicorp",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:25:35.282Z",
+    "last_updated": "2026-11-20T17:54:55.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
