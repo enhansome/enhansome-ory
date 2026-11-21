@@ -48,7 +48,7 @@
             "open_issues": 63,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2634,
+            "stars": 2635,
             "topics": [
               "auth",
               "authentication",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:54:55.237Z",
+    "last_updated": "2026-11-21T16:52:00.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
