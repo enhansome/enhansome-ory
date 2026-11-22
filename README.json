@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4527,
+            "stars": 4528,
             "topics": [
               "automation",
               "ci",
@@ -48,7 +48,7 @@
             "open_issues": 63,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2635,
+            "stars": 2634,
             "topics": [
               "auth",
               "authentication",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:52:00.213Z",
+    "last_updated": "2026-11-22T17:15:09.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
