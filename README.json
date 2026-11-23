@@ -86,10 +86,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
-                "open_issues": 244,
+                "open_issues": 243,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13962,
+                "stars": 13965,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1038,8 +1038,8 @@
                 "id": 689195435,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-17T18:29:00Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-23T19:53:18Z",
+                "open_issues": 1,
                 "owner": "ardetrick",
                 "repo": "testcontainers-ory-hydra",
                 "stars": 4,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:15:09.352Z",
+    "last_updated": "2026-11-23T21:34:51.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
