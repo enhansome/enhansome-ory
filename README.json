@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4528,
+            "stars": 4525,
             "topics": [
               "automation",
               "ci",
@@ -89,7 +89,7 @@
                 "open_issues": 243,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13965,
+                "stars": 13970,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1198,8 +1198,8 @@
                 "id": 91993042,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T04:37:19Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-24T08:05:03Z",
+                "open_issues": 1,
                 "owner": "matthewhartstonge",
                 "repo": "hasher",
                 "stars": 2,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T21:34:51.772Z",
+    "last_updated": "2026-11-24T20:15:29.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
