@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "ory",
             "repo": "dockertest",
-            "stars": 4525,
+            "stars": 4524,
             "topics": [
               "automation",
               "ci",
@@ -89,7 +89,7 @@
                 "open_issues": 243,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13974,
+                "stars": 13986,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -129,7 +129,7 @@
                 "open_issues": 109,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3610,
+                "stars": 3611,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -1038,8 +1038,8 @@
                 "id": 689195435,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-23T19:53:18Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-25T23:43:25Z",
+                "open_issues": 0,
                 "owner": "ardetrick",
                 "repo": "testcontainers-ory-hydra",
                 "stars": 4,
@@ -1168,8 +1168,8 @@
                 "id": 92012686,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T04:06:43Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-26T10:33:57Z",
+                "open_issues": 1,
                 "owner": "matthewhartstonge",
                 "repo": "storage",
                 "stars": 20,
@@ -1198,8 +1198,8 @@
                 "id": 91993042,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T08:05:03Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-26T10:36:58Z",
+                "open_issues": 0,
                 "owner": "matthewhartstonge",
                 "repo": "hasher",
                 "stars": 2,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:28:57.136Z",
+    "last_updated": "2026-11-26T19:10:43.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",

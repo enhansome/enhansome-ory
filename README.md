@@ -49,7 +49,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pointers on how to contribute.
 
 Overview of the main projects in the Ory ecosystem.
 
-* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,525 | 🐛 26 | 🌐 Go | 📅 2026-11-20
+* [Ory Dockertest](https://github.com/ory/dockertest) ⭐ 4,524 | 🐛 26 | 🌐 Go | 📅 2026-11-20
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,634 | 🐛 63 | 🌐 Go | 📅 2025-11-20
 * [Ory Network](https://www.ory.com/network)
 * [Ory Hydra](https://www.ory.com/hydra)
@@ -99,7 +99,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Kratos
 
-* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,974 | 🐛 243 | 🌐 Go | 📅 2026-07-29
+* [Ory Kratos reverse proxy (Nginx) example](https://github.com/ory/kratos/discussions/1049) ⭐ 13,986 | 🐛 243 | 🌐 Go | 📅 2026-07-29
 * [Building a Quarkus application with Ory Kratos](https://hauke.me/writing/2021-03-building-a-quarkus-application-with-ory-kratos/)
 
 ### Ory Hydra
@@ -119,7 +119,7 @@ Developer resources and forums for discussing Ory and meeting other users
 
 ### Ory Oathkeepeer
 
-* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,610 | 🐛 109 | 🌐 Go | 📅 2026-07-27
+* [Ory Oathkeeper Istio best practices/reference configuration](https://github.com/ory/oathkeeper/issues/624) ⭐ 3,611 | 🐛 109 | 🌐 Go | 📅 2026-07-27
 
 ### Ory Dockertest
 
@@ -187,7 +187,7 @@ Community projects, configuration tools, or development helpers extending Ory se
 * [Ory Hydra Terraform Provider](https://github.com/svrakitin/terraform-provider-hydra) ⭐ 23 | 🐛 5 | 🌐 Go | 📅 2024-12-11
 * [Ory Hydra OAuth2 Token Exchange RFC 8693](https://github.com/ApelegHQ/ts-hydra-rfc8693) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-12
 * [Ory Hydra Golang HTTP middleware](https://github.com/ngyewch/hydra-login-consent) ⭐ 7 | 🐛 1 | 🌐 Go | 📅 2026-06-08
-* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2026-11-23
+* [Ory Hydra Testcontainer](https://github.com/ardetrick/testcontainers-ory-hydra) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-11-25
 * [Ory Hydra ExpressJS OAuth2 Middleware for MCP Servers](https://github.com/jeffdyke/hydra-headless-ts) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09
 
 ### Ory Keto
@@ -200,8 +200,8 @@ Community projects, configuration tools, or development helpers extending Ory se
 
 ### Ory Fosite
 
-* [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 4 | 🌐 Go | 📅 2026-11-14
-* [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2026-11-24
+* [MongoDB storage for Ory Fosite](https://github.com/matthewhartstonge/storage) ⭐ 20 | 🐛 1 | 🌐 Go | 📅 2026-11-26
+* [Argon2 Hasher for Ory Fosite](https://github.com/matthewhartstonge/hasher) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-11-26
 
 ## Services
 
@@ -229,4 +229,4 @@ You can find old, archived, outdated, or incomplete projects in [ARCHIVE.md](./A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
