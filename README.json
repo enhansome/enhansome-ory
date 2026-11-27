@@ -45,10 +45,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2025-11-20T01:13:40Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "ory",
             "repo": "fosite",
-            "stars": 2634,
+            "stars": 2635,
             "topics": [
               "auth",
               "authentication",
@@ -89,7 +89,7 @@
                 "open_issues": 243,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13986,
+                "stars": 14000,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:10:43.274Z",
+    "last_updated": "2026-11-27T19:05:29.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of examples and solutions created by the Ory Community. ",
